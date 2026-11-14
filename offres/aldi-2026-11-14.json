@@ -4,7 +4,7 @@
     "pays": "FR",
     "url": "https://www.aldi.fr/offres-et-bons-plans.html",
     "endpoint": "OFFER_GET (week=current) rendu dans __NEXT_DATA__",
-    "recupere_le": "2026-11-14T12:54:48+01:00",
+    "recupere_le": "2026-11-14T12:55:40+01:00",
     "octets_page": 445696,
     "usage": "relevé de page publique, usage personnel, cadence lente"
   },
