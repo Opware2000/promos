@@ -1,40 +1,37 @@
-# Promos — relevé hebdomadaire (ALDI, Lidl, Carrefour, Auchan)
+# Promos — relevé hebdomadaire (sept enseignes)
 
-Page web et fichier de données produits automatiquement, une fois par semaine.
+Page web et fichier de données produits automatiquement.
 
 - **`index.html`** — l'édition courante : offres classées par grande famille,
   **alimentaire d'abord** (crémerie et laitier, fruits et légumes, puis épicerie),
   droguerie et hygiène, animalerie, bébé, et **maison / loisirs / jardin en dernier**.
-  Chaque ligne porte le badge de son enseigne ; le badge « carte de fidélité » signale un prix
-  qui suppose la carte du magasin (Lidl Plus).
+  Chaque ligne porte le badge de son enseigne. Deux marqueurs à connaître :
+  « carte de fidélité » (le prix suppose la carte du magasin, ex. Lidl Plus) et
+  « à vérifier » (mention ambiguë sur l'affichette d'origine).
 - **`promos-AAAA-MM-JJ.html`** — l'édition du jour, conservée.
-- **`liste-courses.json`** — le même contenu au format lisible par l'extension navigateur
-  `CoursesAuto` (`magasin[]` : enseigne, référence article quand elle existe, rayon, catégorie,
-  prix relevé, prix barré, prix au kilo, remise, dates, n° de page du prospectus, lien vers la
-  fiche produit).
+- **`liste-courses.json`** — le même contenu, en JSON.
 - **`offres/<date>-<source>.json`** — les relevés bruts normalisés, avec la trace de la source
   et l'horodatage de récupération.
 
-## Périmètre : quatre enseignes, liste fermée
+## Périmètre : liste fermée
 
-**ALDI, Lidl, Carrefour, Auchan** — et c'est tout. Le filtre `MAGASINS_SUIVIS`
-(`edition_promos.py`) écarte tout le reste à l'entrée, sans le nommer : au dernier relevé,
-411 offres hors périmètre ont été écartées avant publication. Un relevé qui liste une enseigne
-où l'on ne va pas reste du volume à lire.
+**ALDI, Lidl, Carrefour Monéteau, Auchan Auxerre, Netto Monéteau, Grand Frais Perrigny,
+Mangeons Frais Monéteau** — et rien d'autre. `MAGASINS_SUIVIS` (`edition_promos.py`) écarte
+tout le reste à l'entrée. Bonial publie une quinzaine de catalogues dans l'agglomération :
+un relevé qui liste une enseigne où l'on ne va pas reste du volume à lire.
 
-**E.Leclerc** : demandé « si possible » — pas possible en l'état. Aucune source textuelle hors de
-la session du drive, magasin par magasin (le prospectus national n'est qu'un index d'images).
-L'extension sait lire les prix Leclerc quand un onglet du drive est ouvert ; un relevé sans
-navigateur, non.
+**E.Leclerc** reste « si possible » : aucune source textuelle hors de la session du drive
+magasin par magasin (le prospectus national n'est qu'un index d'images).
 
-## Relevé du 14/11/2026
+## Comment chaque enseigne est lue
 
-| Source | Enseignes | Offres retenues |
+| Enseigne | Source | Lecture |
 | --- | --- | --- |
-| Page « offres » d'aldi.fr | ALDI | 210 |
-| Lecteur de prospectus Bonial | Carrefour, Lidl, Auchan | 408 |
-
-Total : **618 offres chiffrées**.
+| ALDI | page « offres » d'aldi.fr | JSON embarqué (`OFFER_GET`), automatisable |
+| Lidl, Carrefour, Auchan | prospectus Bonial | JSON du lecteur de prospectus, automatisable |
+| Netto | catalogues Bonial de l'enseigne | même lecteur ; Netto n'apparaît pas dans la grille ville, on passe par sa page enseigne |
+| Grand Frais | page « offres » du magasin | page rendue côté navigateur : un passage par navigateur est nécessaire |
+| Mangeons Frais | affichettes de mangeonsfrais.com | **images** : transcrites une à une (tableur `out/mangeonsfrais/lectures.json`) — la page ne publie aucun texte |
 
 ## Rythme
 
@@ -45,12 +42,14 @@ Total : **618 offres chiffrées**.
 
 ## Nature de la donnée
 
-Relevé **personnel** de pages publiques, à cadence lente (une trentaine de requêtes par semaine).
-Prix des *offres* publiées par les enseignes, jamais le tarif courant du catalogue.
-Les mentions du type « -50 % sur le 2ᵉ » ne sont pas des prix : elles dépendent de la quantité.
+Relevé **personnel** de pages publiques, à cadence lente. Prix des *offres* publiées par les
+enseignes, jamais le tarif courant du catalogue. Les mentions du type « -50 % sur le 2ᵉ » ne sont
+pas des prix : elles dépendent de la quantité achetée. Une gratuité conditionnée à un montant
+d'achats (ex. une mangue offerte dès 15 €) n'est pas un prix non plus : elle apparaît avec la
+mention, pas avec un montant.
 Aucune garantie d'exhaustivité ni de pérennité — la structure des pages sources peut changer, auquel
 cas la collecte échoue explicitement au lieu de publier une édition tronquée.
 Page en `noindex` (voir `robots.txt`) : usage privé, ne pas diffuser.
 
-Codes : `projects/veille-courses` — `aldi_offres.py`, `bonial_catalogues.py` (collecte),
-`edition_promos.py` (page + JSON), `fabrique_liste.py` (appariement avec une liste d'articles).
+Codes : `projects/veille-courses` — `aldi_offres.py`, `bonial_catalogues.py`,
+`grandfrais_offres.py`, `mangeonsfrais_offres.py` (collecte), `edition_promos.py` (page + JSON).
