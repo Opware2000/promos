@@ -1,12 +1,12 @@
-# Promos — relevé hebdomadaire (toutes enseignes)
+# Promos — relevé hebdomadaire (ALDI, Lidl, Carrefour, Auchan)
 
 Page web et fichier de données produits automatiquement, une fois par semaine.
 
-- **`index.html`** — l'édition courante : offres des enseignes classées par grande famille,
+- **`index.html`** — l'édition courante : offres classées par grande famille,
   **alimentaire d'abord** (crémerie et laitier, fruits et légumes, puis épicerie),
   droguerie et hygiène, animalerie, bébé, et **maison / loisirs / jardin en dernier**.
   Chaque ligne porte le badge de son enseigne ; le badge « carte de fidélité » signale un prix
-  qui suppose la carte du magasin (Lidl Plus, carte Super U).
+  qui suppose la carte du magasin (Lidl Plus).
 - **`promos-AAAA-MM-JJ.html`** — l'édition du jour, conservée.
 - **`liste-courses.json`** — le même contenu au format lisible par l'extension navigateur
   `CoursesAuto` (`magasin[]` : enseigne, référence article quand elle existe, rayon, catégorie,
@@ -15,16 +15,26 @@ Page web et fichier de données produits automatiquement, une fois par semaine.
 - **`offres/<date>-<source>.json`** — les relevés bruts normalisés, avec la trace de la source
   et l'horodatage de récupération.
 
-## Sources couvertes (relevé du 14/11/2026)
+## Périmètre : quatre enseignes, liste fermée
 
-| Source | Enseignes | Offres chiffrées |
+**ALDI, Lidl, Carrefour, Auchan** — et c'est tout. Le filtre `MAGASINS_SUIVIS`
+(`edition_promos.py`) écarte tout le reste à l'entrée, sans le nommer : au dernier relevé,
+411 offres hors périmètre ont été écartées avant publication. Un relevé qui liste une enseigne
+où l'on ne va pas reste du volume à lire.
+
+**E.Leclerc** : demandé « si possible » — pas possible en l'état. Aucune source textuelle hors de
+la session du drive, magasin par magasin (le prospectus national n'est qu'un index d'images).
+L'extension sait lire les prix Leclerc quand un onglet du drive est ouvert ; un relevé sans
+navigateur, non.
+
+## Relevé du 14/11/2026
+
+| Source | Enseignes | Offres retenues |
 | --- | --- | --- |
 | Page « offres » d'aldi.fr | ALDI | 210 |
-| Lecteur de prospectus Bonial | Carrefour, Carrefour Market, Super U, Lidl, Auchan, Gamm Vert | 767 |
-| Page « offres » du magasin | Grand Frais Perrigny | 52 |
+| Lecteur de prospectus Bonial | Carrefour, Lidl, Auchan | 408 |
 
-Total : **1029 offres chiffrées** en une passe. Hors d'atteinte sans lecture visuelle :
-Mangeons Frais (affichettes en images) et E.Leclerc (promos par magasin, côté drive).
+Total : **618 offres chiffrées**.
 
 ## Rythme
 
@@ -42,6 +52,5 @@ Aucune garantie d'exhaustivité ni de pérennité — la structure des pages sou
 cas la collecte échoue explicitement au lieu de publier une édition tronquée.
 Page en `noindex` (voir `robots.txt`) : usage privé, ne pas diffuser.
 
-Codes : `projects/veille-courses` — `aldi_offres.py`, `bonial_catalogues.py`,
-`grandfrais_offres.py` (collecte), `edition_promos.py` (page + JSON), `fabrique_liste.py`
-(appariement avec une liste d'articles).
+Codes : `projects/veille-courses` — `aldi_offres.py`, `bonial_catalogues.py` (collecte),
+`edition_promos.py` (page + JSON), `fabrique_liste.py` (appariement avec une liste d'articles).
