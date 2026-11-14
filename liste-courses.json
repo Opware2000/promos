@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "genere_le": "2026-11-14T13:38:04+01:00",
+  "genere_le": "2026-11-14T13:38:24+01:00",
   "edition": "mardi",
   "semaine": {
     "du": "2026-11-02",
@@ -34,7 +34,7 @@
   ],
   "magasins_suivis": [
     "ALDI",
-    "Auchan Hypermarché",
+    "Auchan",
     "Carrefour",
     "Grand Frais",
     "Lidl"
@@ -2669,7 +2669,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "ALSACE AOP",
       "marque": "SANS MARQUE",
@@ -3005,7 +3005,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "BIÈRE TRIPEL KARMELIET",
       "marque": "TRIPEL KARMELIET",
@@ -3257,7 +3257,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "CAFÉ EN GRAINS ESPRESSO INTENSE COLUMBUS",
       "marque": "COLUMBUS",
@@ -3341,7 +3341,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "CHAMPAGNE EUGÉNIE BÉZARD",
       "marque": "EUGENIE BEZARD",
@@ -3404,7 +3404,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "COCA-COLA  GOÛT ORIGINAL CANETTES",
       "marque": "COCA-COLA",
@@ -3551,7 +3551,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "CORDON BLEU DE POULET SURGELÉ MAÎTRE COQ",
       "marque": "MAITRE COQ",
@@ -3803,7 +3803,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "GAUFRES SANS GLUTEN BJORG",
       "marque": "BJORG",
@@ -3824,7 +3824,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "GIGONDAS AOP 2023",
       "marque": "PIERRE CHANAU",
@@ -4118,7 +4118,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "LAIT DEMI-ÉCRÉMÉ BIO LACTEL",
       "marque": "LACTEL",
@@ -4286,7 +4286,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "MENU PAUSE SNACK AUCHAN",
       "marque": "AUCHAN",
@@ -4328,7 +4328,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "MINI MOULAGES HELLO KITTY ROHAN",
       "marque": "ROHAN",
@@ -4349,7 +4349,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "MINIS CÉRÉALES AU CHOCOLAT CHOCAPIC NESTLÉ",
       "marque": "NESTLE",
@@ -4391,7 +4391,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "NUXOR ASSORTI LINDT",
       "marque": "LINDT",
@@ -4496,7 +4496,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "PAIN MAESTRO CLASSIC SANS GLUTEN SCHÄR",
       "marque": "SCHAR",
@@ -4517,7 +4517,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "PARMENTIER DE BŒUF MAISON TINO",
       "marque": "MAISON TINO",
@@ -4580,7 +4580,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "PÂTES DE FRUITS LES SAVEURS DU VERGER MOTTA",
       "marque": "MOTTA",
@@ -4622,7 +4622,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "PAVÉS DE SAUMON ATLANTIQUE CONGELÉS AUCHAN",
       "marque": "AUCHAN",
@@ -5063,7 +5063,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "RHUM KRAKEN BLACK SPICED",
       "marque": "BUSHMILLS",
@@ -5126,7 +5126,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "RICARD PASTIS",
       "marque": "RICARD",
@@ -5189,7 +5189,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "SAUCE ALGERIENNE AMORA",
       "marque": "AMORA",
@@ -5252,7 +5252,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "SAUMON FUMÉ DE NORVÈGE LABEYRIE",
       "marque": "LABEYRIE",
@@ -5588,7 +5588,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "VODKA DWORAKOFF",
       "marque": "DWORAKOFF",
@@ -5672,7 +5672,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "WHISKY WILLIAM LAWSON",
       "marque": "WILLIAM LAWSON",
@@ -5966,7 +5966,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "COLORATION CRÈME SUPREME SCHWARZKOPF",
       "marque": "CREME SUPREME",
@@ -5987,7 +5987,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "CRÈME ANTI-ÂGE PRÉCIEUX ARGAN SO BIO",
       "marque": "SO BIO ETIC",
@@ -6008,7 +6008,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "CRÈME DE JOUR MENOBALANCE DIADERMINE",
       "marque": "DIADERMINE",
@@ -6134,7 +6134,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "DEODORANT FEMME SPRAY ANTI-TRANSPIRANT DOVE",
       "marque": "DOVE",
@@ -6239,7 +6239,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "MASQUE NUTRITION INTENSE DESSANGE",
       "marque": "DESSANGE",
@@ -6281,7 +6281,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "RASOIR GILETTE LABS + 1 RECHARGE",
       "marque": "GILLETTE",
@@ -6323,7 +6323,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "RASOIRS JETABLES BLUE II PLUS GILLETTE",
       "marque": "GILLETTE",
@@ -6344,7 +6344,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "SÉRUM ANTI-IMPERFECTIONS GARNIER",
       "marque": "GARNIER",
@@ -6365,7 +6365,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "SÉRUM ÉCLAT ANTI-TÂCHES VITAMINE C GARNIER",
       "marque": "GARNIER",
@@ -6386,7 +6386,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "SÉRUM LUMINOUS ANTI-TÂCHES NIVEA",
       "marque": "NIVEA",
@@ -6407,7 +6407,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "SHAMPOING PROTECTION COULEUR TIMOTEÍ EXPERT",
       "marque": "TIMOTEI",
@@ -6491,7 +6491,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "TONDEUSE  MULTI-USAGE 4 EN 1 INFINITE STYLER + TROUSSE MANUCURE",
       "marque": "SAINT ALGUE",
@@ -7856,7 +7856,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "ASPIRATEUR ROBOT LAVEUR DREAME D30 ULTRA",
       "marque": "DREAME",
@@ -7940,7 +7940,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "AUTOCUISEUR CLIPSO TEFAL",
       "marque": "TEFAL",
@@ -8381,7 +8381,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "LISSEUR S7750",
       "marque": "REMINGTON",
@@ -8801,7 +8801,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "SET DE 8 PIÈCES INGENIO COOK EAT",
       "marque": "TEFAL",
@@ -8948,7 +8948,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "BOÎTE MÉTAL RECTANGULAIRE CALISSONS D'AIX ROY RENÉ",
       "marque": "ROY RENE",
@@ -8969,7 +8969,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "BOÎTE MÉTAL TRIANGULAIRE CALISSONS D'AIX ROY RENÉ",
       "marque": "ROY RENE",
@@ -9032,7 +9032,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "COUETTE CHAUDE COLAS NORMAND",
       "marque": "COLAS NORMAND",
@@ -9200,7 +9200,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "LESSIVE CAPSULE ULTRA DÉTACHANT 4 EN 1 ARIEL",
       "marque": "ARIEL",
@@ -9305,7 +9305,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "LOT DE 2 OREILLERS À BOUILLIR BLANRÊVE",
       "marque": "BLANREVE",
@@ -9431,7 +9431,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "RECHARGE POUR PLUMEAUX SWIFFER",
       "marque": "SWIFFER",
@@ -11783,7 +11783,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "TV QLED 50\" / 126 CM\nTCL 50S5L",
       "marque": "TCL",
@@ -12665,7 +12665,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "1 - PARURE EDEN BLANCHE ACTUEL",
       "marque": "ACTUEL",
@@ -12770,7 +12770,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "GAMME EFFET CUIVRE ACTUEL",
       "marque": "ACTUEL",
@@ -12833,7 +12833,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "PARURE NERRY ACTUEL",
       "marque": "ACTUEL",
@@ -12854,7 +12854,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "PARURE NERRY ACTUEL",
       "marque": "ACTUEL",
@@ -12896,7 +12896,7 @@
     },
     {
       "enseigne": "auchan-hypermarché",
-      "enseigne_libelle": "Auchan Hypermarché",
+      "enseigne_libelle": "Auchan",
       "ref": null,
       "nom": "SERVIETTE DE TOILETTE ACTUEL",
       "marque": "ACTUEL",
