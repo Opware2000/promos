@@ -1,0 +1,23 @@
+{
+  "source": {
+    "enseigne": "Mangeons Frais",
+    "magasin": "Moneteau",
+    "url": "https://www.mangeonsfrais.com/nos-promos/",
+    "lecture": "affichettes transcrites une à une (aucun texte sur la page)",
+    "recupere_le": "2026-11-17T06:31:51+01:00"
+  },
+  "jauge": {
+    "affichettes": 7,
+    "affichettes_lues": 0,
+    "affichettes_non_lues": [
+      "PROMO-INTERNET-1611267.jpg",
+      "PROMO-INTERNET-1611266.jpg",
+      "PROMO-INTERNET-1611265.jpg",
+      "PROMO-INTERNET-1611264.jpg",
+      "PROMO-INTERNET-1611263.jpg",
+      "PROMO-INTERNET-1611262.jpg",
+      "PROMO-INTERNET-161126.jpg"
+    ]
+  },
+  "offres": []
+}
