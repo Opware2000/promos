@@ -1,0 +1,5219 @@
+{
+  "source": {
+    "enseigne": "ALDI",
+    "pays": "FR",
+    "url": "https://www.aldi.fr/offres-et-bons-plans.html",
+    "endpoint": "OFFER_GET (week=current) rendu dans __NEXT_DATA__",
+    "recupere_le": "2026-11-19T06:30:51+01:00",
+    "octets_page": 419911,
+    "usage": "relevé de page publique, usage personnel, cadence lente"
+  },
+  "vagues": [
+    {
+      "titre": "Dès le mardi 17/11",
+      "debut": "2026-11-17",
+      "fin": "2026-11-22",
+      "mise_en_ligne": "2026-11-09"
+    },
+    {
+      "titre": "Dès le mercredi 18/11",
+      "debut": "2026-11-18",
+      "fin": "2026-11-22",
+      "mise_en_ligne": "2026-11-09"
+    },
+    {
+      "titre": "Dès le jeudi 19/11",
+      "debut": "2026-11-19",
+      "fin": "2026-11-22",
+      "mise_en_ligne": "2026-11-09"
+    },
+    {
+      "titre": "Dès le samedi 21/11",
+      "debut": "2026-11-21",
+      "fin": "2026-11-22",
+      "mise_en_ligne": "2026-11-09"
+    },
+    {
+      "titre": "Dès le vendredi 20/11",
+      "debut": "2026-11-22",
+      "fin": "2026-11-22",
+      "mise_en_ligne": "2026-11-09"
+    }
+  ],
+  "jauge": {
+    "offres_total": 188,
+    "offres_chiffrees": 188,
+    "offres_sans_prix": 0,
+    "rayons": 53
+  },
+  "offres": [
+    {
+      "ref_aldi": "5017078",
+      "object_id": "5017078",
+      "nom": "RALLONGE 5 M",
+      "rayon": "Appareils electriques",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "7-appareils-electriques",
+        "24-decoration"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Pour une utilisation en intérieur.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/rallonge-5-m-5017078.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_36/5017078.main.1.fr_fr.All.ExtensionCable-5mWhite.png"
+    },
+    {
+      "ref_aldi": "5011351",
+      "object_id": "5011351",
+      "nom": "KINDER® CHOCOLAT",
+      "rayon": "Barres chocolatees",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "4-barres-chocolatees"
+      ],
+      "conditionnement": "150g",
+      "poids_egoutte": 150,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.89,
+        "prix_barre": 3.79,
+        "prix_au": 18.94,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 3.79€ (soit 25.27€ le kg), Les 2 produits : 5.68€ (soit 18.94€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/kinderr-chocolat-5011351.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5011351.main.1.fr_fr.All.kinderchocolat-WEB.png"
+    },
+    {
+      "ref_aldi": "5020522",
+      "object_id": "5020522",
+      "nom": "KNOPPERS NUT BAR",
+      "rayon": "Barres chocolatees",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "4-barres-chocolatees"
+      ],
+      "conditionnement": "400G",
+      "poids_egoutte": 400,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.79,
+        "prix_barre": null,
+        "prix_au": 9.48,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "10 barres.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/knoppers-nut-bar-5020522.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5020522.main.1.fr_fr.All.knoppers-WEB.png"
+    },
+    {
+      "ref_aldi": "5001105",
+      "object_id": "5001105",
+      "nom": "SACHET ASSORTIMENT TOBLERONE 248G",
+      "rayon": "Barres chocolatees",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "4-barres-chocolatees"
+      ],
+      "conditionnement": "248G",
+      "poids_egoutte": 248,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.64,
+        "prix_barre": 7.29,
+        "prix_au": 22.06,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 7.29€ (soit 29.40€ le kg), Les 2 produits : 10.93€ (soit 22.06€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "ASSORTIMENT TINY",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/sachet-assortiment-toblerone-248g-5001105.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_47/5001105.main.1.fr_fr.All.assortimenttoblerone.png"
+    },
+    {
+      "ref_aldi": "5018310",
+      "object_id": "5018310",
+      "nom": "CHOCO SUPRÊME",
+      "rayon": "Biscuits au chocolat",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "12-biscuits-au-chocolat"
+      ],
+      "conditionnement": "540 g",
+      "poids_egoutte": 540,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 6.42,
+        "prix_barre": null,
+        "prix_au": 11.89,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Lot de 3.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/choco-supreme-5018310.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw36/5018310.main.1.fr_fr.All.gateaumilk-WEB.png"
+    },
+    {
+      "ref_aldi": "5009911",
+      "object_id": "5009911",
+      "nom": "DELACRE® TEA TIME",
+      "rayon": "Biscuits au chocolat",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "12-biscuits-au-chocolat"
+      ],
+      "conditionnement": "600g",
+      "poids_egoutte": 600,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": 7.99,
+        "prix_au": 9.99,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 7.99€ (soit 13.32€ le kg), Les 2 produits : 11.98€ (soit 9.99€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Assortiment de biscuits.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/delacrer-tea-time-5009911.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_47/5009911.main.1.fr_fr.All.teatimedelacre.png"
+    },
+    {
+      "ref_aldi": "0586",
+      "object_id": "0586",
+      "nom": "KINDER® SCHOKOBONS",
+      "rayon": "Biscuits au chocolat",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "12-biscuits-au-chocolat"
+      ],
+      "conditionnement": "350g",
+      "poids_egoutte": 350,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.24,
+        "prix_barre": 6.49,
+        "prix_au": 13.92,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 6.49€ (soit 18.55€ le kg), Les 2 produits : 9.73€ (soit 13.92€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/kinderr-schokobons-0586.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/0586.main.1.fr_fr.All.schokobons-WEB.png"
+    },
+    {
+      "ref_aldi": "5022248",
+      "object_id": "5022248",
+      "nom": "NOIX CARAMÉLISÉES",
+      "rayon": "Biscuits au chocolat",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "12-biscuits-au-chocolat",
+        "104-trader-joe-s-r"
+      ],
+      "conditionnement": "200G",
+      "poids_egoutte": 200,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": 9.95,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/noix-caramelisees-5022248.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw38/5022248.main.1.fr_fr.All.noixcaramelisee-WEB.png"
+    },
+    {
+      "ref_aldi": "5026772",
+      "object_id": "5026772",
+      "nom": "SABLES FOURRES NOISETTES",
+      "rayon": "Biscuits au chocolat",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "136-biscotto-r",
+        "12-biscuits-au-chocolat"
+      ],
+      "conditionnement": "125g",
+      "poids_egoutte": 125,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.49,
+        "prix_barre": null,
+        "prix_au": 11.92,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/sables-fourres-noisettes-5026772.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026772.main.1.fr_fr.All.sablesfourres-WEB.png"
+    },
+    {
+      "ref_aldi": "5019634",
+      "object_id": "5019634",
+      "nom": "AMANDES ET NOISETTES ENROBÉES",
+      "rayon": "Bonbons et chewing gums",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "13-bonbons-et-chewing-gums",
+        "36-fete"
+      ],
+      "conditionnement": "150G",
+      "poids_egoutte": 150,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.49,
+        "prix_barre": null,
+        "prix_au": 16.6,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Variété assortie.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/amandes-et-noisettes-enrobees-5019634.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_47/5019634.main.1.fr_fr.All.amandesenrobees.png"
+    },
+    {
+      "ref_aldi": "5023007",
+      "object_id": "5023007",
+      "nom": "CALENDRIER DE L'AVENT",
+      "rayon": "Bonbons et chewing gums",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "13-bonbons-et-chewing-gums",
+        "36-fete"
+      ],
+      "conditionnement": "119.6G",
+      "poids_egoutte": 119.6,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 4.79,
+        "prix_barre": 5.99,
+        "prix_au": 40.06,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "-20%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/calendrier-de-lavent-5023007.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw48/5023007.main.1.fr_fr.All.calendrieravantmilka-WEB.png"
+    },
+    {
+      "ref_aldi": "5022936",
+      "object_id": "5022936",
+      "nom": "FERRERO ROCHER®",
+      "rayon": "Bonbons et chewing gums",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "13-bonbons-et-chewing-gums",
+        "36-fete"
+      ],
+      "conditionnement": "115G",
+      "poids_egoutte": 115,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": 5.99,
+        "prix_au": 39.05,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 5.99€ (soit 52.09€ le kg), Les 2 produits : 8.98€ (soit 39.05€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Mix de chocolats en forme d'étoiles fourrés à la crème de noisette.\nChocolat blanc, au lait et  noir.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/ferrero-rocherr-5022936.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_47/5022936.main.1.fr_fr.All.etoilechoco.png"
+    },
+    {
+      "ref_aldi": "5026724",
+      "object_id": "5026724",
+      "nom": "KINDER BALLS",
+      "rayon": "Bonbons et chewing gums",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "13-bonbons-et-chewing-gums",
+        "36-fete"
+      ],
+      "conditionnement": "KG",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": 5.99,
+        "prix_au": 4.49,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 5.99€ (soit 5.99€ le kg), Les 2 produits : 8.98€ (soit 4.49€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/kinder-balls-5026724.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026724.main.1.fr_fr.All.chocoballs-WEB.png"
+    },
+    {
+      "ref_aldi": "5022934",
+      "object_id": "5022934",
+      "nom": "KINDER® BALLS",
+      "rayon": "Bonbons et chewing gums",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "13-bonbons-et-chewing-gums",
+        "36-fete"
+      ],
+      "conditionnement": "164G",
+      "poids_egoutte": 164,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": 5.99,
+        "prix_au": 27.38,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 5.99€ (soit 36.53€ le kg), Les 2 produits : 8.98€ (soit 27.38€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Lait et éclats croustillants au cacao.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/kinderr-balls-5022934.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5022934.main.1.fr_fr.All.chocolat-WEB.png"
+    },
+    {
+      "ref_aldi": "5584",
+      "object_id": "5584",
+      "nom": "MINI SUCRE D'ORGE",
+      "rayon": "Bonbons et chewing gums",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "13-bonbons-et-chewing-gums",
+        "36-fete"
+      ],
+      "conditionnement": "120G",
+      "poids_egoutte": 120,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": 16.59,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Goût banane, pomme et fraise.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/mini-sucre-dorge-5584.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_49/5584.main.1.fr_fr.All.minicanes.png"
+    },
+    {
+      "ref_aldi": "5001493",
+      "object_id": "5001493",
+      "nom": "PÈRE NOËL EN CHOCOLAT",
+      "rayon": "Bonbons et chewing gums",
+      "section_prospectus": "Chocolats",
+      "rayons_natifs": [
+        "13-bonbons-et-chewing-gums",
+        "36-fete"
+      ],
+      "conditionnement": "110g",
+      "poids_egoutte": 110,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.89,
+        "prix_barre": 3.79,
+        "prix_au": 25.82,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 3.79€ (soit 34.46€ le kg), Les 2 produits : 5.68€ (soit 25.82€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pere-noel-en-chocolat-5001493.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_47/5001493.main.1.fr_fr.All.kinderperenoel.png"
+    },
+    {
+      "ref_aldi": "5017089",
+      "object_id": "5017089",
+      "nom": "BAS DE PORTE ISOLANT",
+      "rayon": "Bricolage",
+      "section_prospectus": "Maison",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 2.49,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Protège contre le vent, la poussière et le froid.\nLongueur env. 95 cm.\nÀ glisser sous la porte.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/bas-de-porte-isolant-5017089.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017089.main.2.fr_fr.All.doorstop-draught-strip_brown-WEB.png"
+    },
+    {
+      "ref_aldi": "5012702",
+      "object_id": "5012702",
+      "nom": "DÉSHUMIDIFICATEUR",
+      "rayon": "Bricolage",
+      "section_prospectus": "Maison",
+      "rayons_natifs": [
+        "121-ambiano",
+        "14-bricolage",
+        "24-decoration"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 119,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Déshumidification environ 20 litres par jour.\nSilencieux et affichage LED.\nMinuterie.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/deshumidificateur-5012702.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_52/5012702.main.1.fr_fr.All.Dehumidifier-01_DAM-WEB.png"
+    },
+    {
+      "ref_aldi": "5014059",
+      "object_id": "5014059",
+      "nom": "JEU DE 5 CLÉS À CLIQUET",
+      "rayon": "Bricolage",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration"
+      ],
+      "conditionnement": "Le set",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Têtes de cliquet pivotantes à 180°.\nTailles : 8, 10, 13, 15 et 17 mm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/jeu-de-5-cles-a-cliquet-5014059.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5014059.main.1.fr_fr.All.fork-keyring-set-with-ratchet_fork-keyring-set-with-ratchet_2-WEB.png"
+    },
+    {
+      "ref_aldi": "5017082",
+      "object_id": "5017082",
+      "nom": "JEU DE FORETS OU DE FRAISES",
+      "rayon": "Bricolage",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration",
+        "122-ferrex-r"
+      ],
+      "conditionnement": "Le set",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Différents modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/jeu-de-forets-ou-de-fraises-5017082.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017082.main.3.fr_fr.All.special-drill-sets-assorted_4pc-multi-drill-set-WEB.png"
+    },
+    {
+      "ref_aldi": "5014044",
+      "object_id": "5014044",
+      "nom": "LAMPE DE POCHE LED",
+      "rayon": "Bricolage",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 1.5,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Différents modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/lampe-de-poche-led-5014044.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5014044.main.1.fr_fr.All.led-flashlight_long-blue-WEB.png"
+    },
+    {
+      "ref_aldi": "5010526",
+      "object_id": "5010526",
+      "nom": "MITIGEUR",
+      "rayon": "Bricolage",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration",
+        "124-home-creation-r"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 21.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Pour douche, lavabo ou évier.\nDifférents modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/mitigeur-5010526.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw34/5010526.main.2.fr_fr.All.single-lever-fitting_kitchen-mixer_1-WEB.png"
+    },
+    {
+      "ref_aldi": "5012009",
+      "object_id": "5012009",
+      "nom": "RUBAN ADHÉSIF DOUBLE FACE",
+      "rayon": "Bricolage",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Dimensions : env. 3 mètres.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/ruban-adhesif-double-face-5012009.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5012009.main.1.fr_fr.All.nano-gel-tape-ae_nano-gel-tape-WEB.png"
+    },
+    {
+      "ref_aldi": "5012948",
+      "object_id": "5012948",
+      "nom": "SERRE-JOINTS RAPIDE",
+      "rayon": "Bricolage",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration"
+      ],
+      "conditionnement": "Le set",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 7.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix :\n- 2 serre-joints de 495 x 310 mm (écartement x capacité de serrage)\n- 2 serre-joints de 200 x 105 mm et 2 serre-joints de 345 x 155 mm (écartement x capacité de serrage)",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/serre-joints-rapide-5012948.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5012948.main.2.fr_fr.All.clamps-assortment-ae_4pcs-clamp-set-2pcs-small-size-2pcs-medium-size-WEB.png"
+    },
+    {
+      "ref_aldi": "5023770",
+      "object_id": "5023770",
+      "nom": "SET DE TOURNEVIS ET D'EMBOUTS",
+      "rayon": "Bricolage",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration"
+      ],
+      "conditionnement": "Le set",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 19.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Contient 100 pièces.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/set-de-tournevis-et-dembouts-5023770.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw28/5023770.main.1.fr_fr.All.XXLScrewdriverBitSet-WEB.png"
+    },
+    {
+      "ref_aldi": "5019489",
+      "object_id": "5019489",
+      "nom": "SPRAY EXTINCTEUR",
+      "rayon": "Bricolage",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "14-bricolage",
+        "24-decoration"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Convient aux petits feux.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/spray-extincteur-5019489.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw15/5019489.main.1.fr_fr.All.FireExtinguishingSpray-FR-WEB-WEB.png"
+    },
+    {
+      "ref_aldi": "5023806",
+      "object_id": "5023806",
+      "nom": "CAFÉ GRAINS ORIGINE HONDURAS ET BRÉSIL",
+      "rayon": "Cafe et boissons chaudes",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "15-cafe-et-boissons-chaudes"
+      ],
+      "conditionnement": "1KG",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 12.99,
+        "prix_barre": null,
+        "prix_au": 12.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "100% arabica.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/cafe-grains-origine-honduras-et-bresil-5023806.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_46/5023806.main.1.fr_fr.All.cafehonduras.psd-custom.png"
+    },
+    {
+      "ref_aldi": "5006336",
+      "object_id": "5006336",
+      "nom": "8 MINI PACKS DE CÉRÉALES",
+      "rayon": "Cereales",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "16-cereales"
+      ],
+      "conditionnement": "220G",
+      "poids_egoutte": 220,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.39,
+        "prix_barre": 2.79,
+        "prix_au": 9.5,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 2.79€ (soit 12.69€ le kg), Les 2 produits : 4.18€ (soit 9.50€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/8-mini-packs-de-cereales-5006336.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw35/5006336.main.1.fr_fr.All.cereales-kellogs-WEB.png"
+    },
+    {
+      "ref_aldi": "5005330",
+      "object_id": "5005330",
+      "nom": "VIN MOUSSEUX",
+      "rayon": "Champagne et vins effervescents",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "17-champagne-et-vins-effervescents"
+      ],
+      "conditionnement": "1.5L",
+      "poids_egoutte": 1.5,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 7.79,
+        "prix_barre": null,
+        "prix_au": 5.2,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Demi-sec\n\nMagnum",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/vin-mousseux-5005330.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5005330.main.1.fr_fr.All.vinmousseux-WEB.png"
+    },
+    {
+      "ref_aldi": "5017629",
+      "object_id": "5017629",
+      "nom": "COLORATION  COLORSILK™",
+      "rayon": "Cheveux",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "19-cheveux"
+      ],
+      "conditionnement": "La boite",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3.69,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "6 teintes disponibles au choix.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/coloration-colorsilktm-5017629.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw35/5017629.main.1.fr_fr.All.couleur-WEB.png"
+    },
+    {
+      "ref_aldi": "5018487",
+      "object_id": "5018487",
+      "nom": "SHAMPOOING ANTIPELLICULAIRE",
+      "rayon": "Cheveux",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "19-cheveux"
+      ],
+      "conditionnement": "330ML",
+      "poids_egoutte": 330,
+      "unite_poids": "ML",
+      "prix": {
+        "prix": 3.51,
+        "prix_barre": 4.68,
+        "prix_au": 10.64,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": "-25%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Variétés au choix.\nExiste en 300 et 330 ml.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/shampooing-antipelliculaire-5018487.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5018487.main.1.fr_fr.All.shampooing-WEB.png"
+    },
+    {
+      "ref_aldi": "5016960",
+      "object_id": "5016960",
+      "nom": "COTONS DEMAQUILLANTS",
+      "rayon": "Corps et visage",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "21-corps-et-visage",
+        "107-lacura-r"
+      ],
+      "conditionnement": "280PIECE",
+      "poids_egoutte": 280,
+      "unite_poids": "PIECE",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": 0.01,
+        "unite": "PIECE",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Disques à démaquiller.\n2 lots de 140 cotons.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/cotons-demaquillants-5016960.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5016960.main.1.fr_fr.All.disquedemaquillant-WEB.png"
+    },
+    {
+      "ref_aldi": "5017691",
+      "object_id": "5017691",
+      "nom": "GEL LAVANT INTIME",
+      "rayon": "Corps et visage",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "21-corps-et-visage"
+      ],
+      "conditionnement": "500ML",
+      "poids_egoutte": 500,
+      "unite_poids": "ML",
+      "prix": {
+        "prix": 3.45,
+        "prix_barre": 5.75,
+        "prix_au": 6.9,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": "-40%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "A l'extrait d'hamamélis.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/gel-lavant-intime-5017691.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017691.main.1.fr_fr.All.gellavant-WEB.png"
+    },
+    {
+      "ref_aldi": "5023544",
+      "object_id": "5023544",
+      "nom": "MASQUE VISAGE EN TISSU",
+      "rayon": "Corps et visage",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "21-corps-et-visage",
+        "107-lacura-r"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 0.49,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : hydratant ou coup d'éclat.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/masque-visage-en-tissu-5023544.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw24/5023544.main.1.fr_fr.All.masquetissuvisage-WEB.png"
+    },
+    {
+      "ref_aldi": "5025005",
+      "object_id": "5025005",
+      "nom": "BEURRE DOUX",
+      "rayon": "Creme et beurre",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "22-creme-et-beurre"
+      ],
+      "conditionnement": "1 KG",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 6.49,
+        "prix_barre": null,
+        "prix_au": 6.49,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/beurre-doux-5025005.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5025005.main.1.fr_fr.All.beurre1kg-WEB.png"
+    },
+    {
+      "ref_aldi": "5025491",
+      "object_id": "5025491",
+      "nom": "CRÈME LÉGÈRE FOUETTÉE",
+      "rayon": "Creme et beurre",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "22-creme-et-beurre"
+      ],
+      "conditionnement": "250 g",
+      "poids_egoutte": 250,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.64,
+        "prix_barre": null,
+        "prix_au": 10.56,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/creme-legere-fouettee-5025491.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw22/5025491.main.1.fr_fr.All.cremelegere-WEB.png"
+    },
+    {
+      "ref_aldi": "5016437",
+      "object_id": "5016437",
+      "nom": "LAIT DEMI-ÉCRÉMÉ",
+      "rayon": "Creme et beurre",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "22-creme-et-beurre",
+        "111-milsani-r"
+      ],
+      "conditionnement": "1L",
+      "poids_egoutte": 1,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 0.89,
+        "prix_barre": null,
+        "prix_au": 0.89,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/lait-demi-ecreme-5016437.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5016437.main.1.fr_fr.All.laitdemiecreme-WEB.png"
+    },
+    {
+      "ref_aldi": "5025487",
+      "object_id": "5025487",
+      "nom": "ST HUBERT",
+      "rayon": "Creme et beurre",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "22-creme-et-beurre"
+      ],
+      "conditionnement": "510 G",
+      "poids_egoutte": 510,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.09,
+        "prix_barre": 3.4,
+        "prix_au": 4.42,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 3.40€ (soit 6.67€ le kg), Les 2 produits : 4.49€ (soit 4.42€ le kg)",
+        "etiquette": "-68% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Doux. Oméga 3.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/st-hubert-5025487.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw48/5025487.main.1.fr_fr.All.beurre-WEB.png"
+    },
+    {
+      "ref_aldi": "5025488",
+      "object_id": "5025488",
+      "nom": "ST HUBERT OMEGA 3",
+      "rayon": "Creme et beurre",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "22-creme-et-beurre"
+      ],
+      "conditionnement": "510 G",
+      "poids_egoutte": 510,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.15,
+        "prix_barre": 3.6,
+        "prix_au": 4.67,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 3.60€ (soit 7.06€ le kg), Les 2 produits : 4.75€ (soit 4.67€ le kg)",
+        "etiquette": "-68% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Oméga 3. Demi-sel.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/st-hubert-omega-3-5025488.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5025488.main.1.fr_fr.All.beurreomega3-WEB.png"
+    },
+    {
+      "ref_aldi": "6532",
+      "object_id": "6532",
+      "nom": "MASCARPONE",
+      "rayon": "Cucina nobile r",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "113-cucina-nobile-r",
+        "38-fromages-a-deguster"
+      ],
+      "conditionnement": "250G",
+      "poids_egoutte": 250,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.84,
+        "prix_barre": 1.69,
+        "prix_au": 5.08,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 1.69€ (soit 6.76€ le kg), Les 2 produits : 2.53€ (soit 5.08€ le kg)",
+        "etiquette": "-50% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Savourez notre délicieux mascarpone de la marque CUCINA®, avec sa texture crémeuse et son goût riche en matière grasse à 36%. Parfait pour sublimer vos desserts ou vos plats salés, ce produit de qualité vous garantit une expérience culinaire incomparable à un prix discount. Laissez-vous tenter par l'excellence à portée de main chez ALDI.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/mascarpone-6532.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw14/6532.main.1.fr_fr.All.mascarpone-WEB.png"
+    },
+    {
+      "ref_aldi": "5023836",
+      "object_id": "5023836",
+      "nom": "PANETTONE",
+      "rayon": "Cucina nobile r",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "113-cucina-nobile-r",
+        "45-gateaux-moelleux"
+      ],
+      "conditionnement": "1KG",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 5.49,
+        "prix_barre": null,
+        "prix_au": 5.49,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/panettone-5023836.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw48/5023836.main.1.fr_fr.All.panettone-WEB.png"
+    },
+    {
+      "ref_aldi": "5017496",
+      "object_id": "5017496",
+      "nom": "ACCESSOIRE DE PÂTISSERIE",
+      "rayon": "Cuisine et vaisselle",
+      "section_prospectus": "Cuisine",
+      "rayons_natifs": [
+        "23-cuisine-et-vaisselle",
+        "61-nettoyants-et-desodorisants"
+      ],
+      "conditionnement": "L'unité ou le lot",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 4,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Autres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/accessoire-de-patisserie-5017496.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017496.main.1.fr_fr.All.baking-utensil-cookie-baking-assortment-WEB.png"
+    },
+    {
+      "ref_aldi": "5016754",
+      "object_id": "5016754",
+      "nom": "GANTS OU MANIQUES",
+      "rayon": "Cuisine et vaisselle",
+      "section_prospectus": "Cuisine",
+      "rayons_natifs": [
+        "23-cuisine-et-vaisselle",
+        "59-meubles"
+      ],
+      "conditionnement": "Le lot de 2",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Enveloppe : 100% coton, paume de la main avec revêtement en silicone.\nGarnissage : 100% polyester.\nDoublure : 100% polypropylène.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/gants-ou-maniques-5016754.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_44/5016754.main.1.fr_fr.All.PotholderOvenGloves-OvenglovesRed_DAM.png"
+    },
+    {
+      "ref_aldi": "5019677",
+      "object_id": "5019677",
+      "nom": "LIQUIDE VAISSELLE",
+      "rayon": "Cuisine et vaisselle",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "23-cuisine-et-vaisselle"
+      ],
+      "conditionnement": "1.5L",
+      "poids_egoutte": 1.5,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 2.79,
+        "prix_barre": null,
+        "prix_au": 1.86,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Parfum citron.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/liquide-vaisselle-5019677.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5019677.main.1.fr_fr.All.liquidevaiselle-WEB.png"
+    },
+    {
+      "ref_aldi": "5017658",
+      "object_id": "5017658",
+      "nom": "MOULE À PÂTISSERIE OU TAPIS DE CUISSON",
+      "rayon": "Cuisine et vaisselle",
+      "section_prospectus": "Cuisine",
+      "rayons_natifs": [
+        "23-cuisine-et-vaisselle",
+        "61-nettoyants-et-desodorisants"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "En silicone.\nAutres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/moule-a-patisserie-ou-tapis-de-cuisson-5017658.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_42/5017658.main.1.fr_fr.All.BakingPanSilicone-SantaClause02_DAM.png"
+    },
+    {
+      "ref_aldi": "5014664",
+      "object_id": "5014664",
+      "nom": "USTENSILE DE CUISINE",
+      "rayon": "Cuisine et vaisselle",
+      "section_prospectus": "Cuisine",
+      "rayons_natifs": [
+        "23-cuisine-et-vaisselle",
+        "61-nettoyants-et-desodorisants"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 0.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : cuillère, maryse, pinceau, fouet, spatule ou verre doseur.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/ustensile-de-cuisine-5014664.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw10/5014664.main.1.fr_fr.Bakinghelper-SpoonBlue_DAM-WEB.png"
+    },
+    {
+      "ref_aldi": "5021215",
+      "object_id": "5021215",
+      "nom": "BOUGIE AVEC BOÎTE CADEAU",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "124-home-creation-r",
+        "61-nettoyants-et-desodorisants"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Env. 28 h de combustion.\nAutres parfums disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/bougie-avec-boite-cadeau-5021215.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5021215.main.7.fr_fr.All.townhouse-candle-2_red-WEB.png"
+    },
+    {
+      "ref_aldi": "5021228",
+      "object_id": "5021228",
+      "nom": "BOUGIE PARFUMÉE",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "124-home-creation-r",
+        "61-nettoyants-et-desodorisants"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Env. 38 h de combustion.\nAutres parfums disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/bougie-parfumee-5021228.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5021228.main.1.fr_fr.All.winter-scented-candle-1_green-christmas-decoration-WEB.png"
+    },
+    {
+      "ref_aldi": "5024900",
+      "object_id": "5024900",
+      "nom": "COURONNE DÉCORATIVE",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "124-home-creation-r",
+        "50-jardinage"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Env. 16 x 16 x 8 cm.\nAutres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/couronne-decorative-5024900.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024900.main.4.fr_fr.All.small-wreath-with-glass-insert-ae_eucalyptus-WEB.png"
+    },
+    {
+      "ref_aldi": "5021233",
+      "object_id": "5021233",
+      "nom": "FIGURINE DE NOËL",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "25-decoration-a-theme",
+        "124-home-creation-r"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 6.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "100% polyester. Extensible jusqu'à 70 cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/figurine-de-noel-5021233.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5021233.main.5.fr_fr.All.christmas-figures-standing-or-sitting_AI_moose-standing_AI-WEB.png"
+    },
+    {
+      "ref_aldi": "5024901",
+      "object_id": "5024901",
+      "nom": "FLEUR ARTIFICIELLE EN POT",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "124-home-creation-r",
+        "50-jardinage"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 7.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : amaryllis ou poinsettia.\nEnv. 45 cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/fleur-artificielle-en-pot-5024901.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024901.main.1.fr_fr.All.plante-WEB.png"
+    },
+    {
+      "ref_aldi": "5024908",
+      "object_id": "5024908",
+      "nom": "GNOME DE NOËL À SUSPENDRE",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "25-decoration-a-theme",
+        "124-home-creation-r"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 5,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Avec 20 micro LED. Piles incluses.\nEnv. 24 x 5 x 40 cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/gnome-de-noel-a-suspendre-5024908.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024908.main.1.fr_fr.All.led-christmas-hanging-gnome-3-ai-WEB.png"
+    },
+    {
+      "ref_aldi": "5021485",
+      "object_id": "5021485",
+      "nom": "GUIRLANDE LUMINEUSE 40  MICRO LED",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "25-decoration-a-theme",
+        "124-home-creation-r"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 0.79,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Env. 205 cm. Piles incluses.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/guirlande-lumineuse-40-micro-led-5021485.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_49/5021485.main.1.fr_fr.All.LightChain-01_DAM.png"
+    },
+    {
+      "ref_aldi": "5024902",
+      "object_id": "5024902",
+      "nom": "MINI SAPIN DÉCORÉ",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "124-home-creation-r",
+        "50-jardinage"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 7,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Env. 40 cm.\nAutres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/mini-sapin-decore-5024902.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024902.main.1.fr_fr.All.frosted-christmas-tree-with-decoration_classic-red-WEB.png"
+    },
+    {
+      "ref_aldi": "5021234",
+      "object_id": "5021234",
+      "nom": "PÈRE NOËL TRADITIONNEL",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "25-decoration-a-theme",
+        "124-home-creation-r"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 8.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Debout ou assis.\nEx : env. 45 cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pere-noel-traditionnel-5021234.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5021234.main.3.fr_fr.All.traditional-santa-clause-figure_standing-WEB.png"
+    },
+    {
+      "ref_aldi": "5024955",
+      "object_id": "5024955",
+      "nom": "SAPIN ARTIFICIEL",
+      "rayon": "Decoration",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "24-decoration",
+        "124-home-creation-r",
+        "50-jardinage"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 24.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "En PVC.\nEnv. 483 brindilles flexibles.\nEnv. Ø 106 x 180 cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/sapin-artificiel-5024955.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024955.main.1.fr_fr.All.basic-artificial-xmas-tree-180-cm-ae_9428_m-pyjama-winter-WEB.png"
+    },
+    {
+      "ref_aldi": "2299",
+      "object_id": "2299",
+      "nom": "AMANDES EFFILÉES",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "250G",
+      "poids_egoutte": 250,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.49,
+        "prix_barre": null,
+        "prix_au": 9.96,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/amandes-effilees-2299.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/2299.main.1.fr_fr.All.amandeseffiles-WEB.png"
+    },
+    {
+      "ref_aldi": "5024798",
+      "object_id": "5024798",
+      "nom": "AMANDES EN POUDRE",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "500G",
+      "poids_egoutte": 500,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 4.49,
+        "prix_barre": null,
+        "prix_au": 8.98,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/amandes-en-poudre-5024798.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw37/5024798.main.1.fr_fr.All.poudreamandes-WEB.png"
+    },
+    {
+      "ref_aldi": "5017099",
+      "object_id": "5017099",
+      "nom": "ARÔME VANILLE",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "200ML",
+      "poids_egoutte": 200,
+      "unite_poids": "ML",
+      "prix": {
+        "prix": 2.49,
+        "prix_barre": null,
+        "prix_au": 12.45,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/arome-vanille-5017099.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017099.main.1.fr_fr.All.aromevanille-WEB.png"
+    },
+    {
+      "ref_aldi": "5019119",
+      "object_id": "5019119",
+      "nom": "ASSORTIMENT DE GAUFRETTES",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "136-biscotto-r",
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "600G",
+      "poids_egoutte": 600,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 4.79,
+        "prix_barre": null,
+        "prix_au": 7.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Variété assortie.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/assortiment-de-gaufrettes-5019119.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw38/5019119.main.1.fr_fr.All.gaufrette-WEB.png"
+    },
+    {
+      "ref_aldi": "5016035",
+      "object_id": "5016035",
+      "nom": "DECORS EN SUCRE ET CHOCOLAT",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "8G",
+      "poids_egoutte": 8,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.49,
+        "prix_barre": null,
+        "prix_au": 186.25,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/decors-en-sucre-et-chocolat-5016035.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5016035.main.1.fr_fr.All.decorschocolat-WEB.png"
+    },
+    {
+      "ref_aldi": "5019833",
+      "object_id": "5019833",
+      "nom": "DÉCORS DE NOËL À PARSEMER",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "40G",
+      "poids_egoutte": 40,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.99,
+        "prix_barre": null,
+        "prix_au": 24.75,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/decors-de-noel-a-parsemer-5019833.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5019833.main.1.fr_fr.All.decorsgateau-WEB.png"
+    },
+    {
+      "ref_aldi": "5026165",
+      "object_id": "5026165",
+      "nom": "FAR AUX PRUNEAUX",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Offres spéciales week-end",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "480 G",
+      "poids_egoutte": 480,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.79,
+        "prix_barre": null,
+        "prix_au": 7.9,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-20",
+      "valide_au": "2026-11-22",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/far-aux-pruneaux-5026165.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026165.main.1.fr_fr.All.farbreton-WEB.png"
+    },
+    {
+      "ref_aldi": "5024586",
+      "object_id": "5024586",
+      "nom": "FARINE DE BLÉ 2 KG",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "2KG",
+      "poids_egoutte": 2,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 1.25,
+        "prix_barre": null,
+        "prix_au": 0.63,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/farine-de-ble-2-kg-5024586.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw05/5024586.main.1.fr_fr.All.farine-WEB.png"
+    },
+    {
+      "ref_aldi": "5019124",
+      "object_id": "5019124",
+      "nom": "GAUFRETTES ROULÉES",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "136-biscotto-r",
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "150G",
+      "poids_egoutte": 150,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.79,
+        "prix_barre": null,
+        "prix_au": 11.94,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Chocolat au lait ou noir.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/gaufrettes-roulees-5019124.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw04/5019124.main.1.fr_fr.All.gaufretteroule-WEB.png"
+    },
+    {
+      "ref_aldi": "5024839",
+      "object_id": "5024839",
+      "nom": "MACARONS PREMIUM",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "126 g",
+      "poids_egoutte": 126,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.49,
+        "prix_barre": null,
+        "prix_au": 27.7,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "7 x 18 g.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/macarons-premium-5024839.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw25/5024839.main.1.fr_fr.All.macarons-WEB.png"
+    },
+    {
+      "ref_aldi": "5027383",
+      "object_id": "5027383",
+      "nom": "NOISETTES EN POUDRE",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "0.35KG",
+      "poids_egoutte": 0.35,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": 14.26,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/noisettes-en-poudre-5027383.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5027383.main.1.fr_fr.All.noistettes-WEB.png"
+    },
+    {
+      "ref_aldi": "5005196",
+      "object_id": "5005196",
+      "nom": "NOIX DE COCO RÂPÉE",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "500G",
+      "poids_egoutte": 500,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.19,
+        "prix_barre": null,
+        "prix_au": 4.38,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/noix-de-coco-rapee-5005196.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5005196.main.1.fr_fr.All.poudredefruit-WEB.png"
+    },
+    {
+      "ref_aldi": "5026406",
+      "object_id": "5026406",
+      "nom": "PRÉPARATION POUR FLAN PÂTISSIER",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "720G",
+      "poids_egoutte": 720,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.69,
+        "prix_barre": null,
+        "prix_au": 3.74,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/preparation-pour-flan-patissier-5026406.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw26/5026406.main.1.fr_fr.All.preparationflan-WEB.png"
+    },
+    {
+      "ref_aldi": "5024774",
+      "object_id": "5024774",
+      "nom": "PÉPITES DE CHOCOLAT AU LAIT",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "100G",
+      "poids_egoutte": 100,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.64,
+        "prix_barre": 1.99,
+        "prix_au": 13.2,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 1.99€ (soit 19.90€ le kg), Les 2 produits : 2.63€ (soit 13.20€ le kg)",
+        "etiquette": "-68% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pepites-de-chocolat-au-lait-5024774.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024774.main.1.fr_fr.All.pepitechocolatlait-WEB.png"
+    },
+    {
+      "ref_aldi": "5016962",
+      "object_id": "5016962",
+      "nom": "SUCRE VANILLINÉ ET LEVURE CHIMIQUE",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "163G",
+      "poids_egoutte": 163,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.79,
+        "prix_barre": null,
+        "prix_au": 10.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/sucre-vanilline-et-levure-chimique-5016962.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5016962.main.1.fr_fr.All.levuresucrevanille-WEB.png"
+    },
+    {
+      "ref_aldi": "5024327",
+      "object_id": "5024327",
+      "nom": "YAOURT À LA GRECQUE STRACCIATELLA",
+      "rayon": "Desserts sucre et farine",
+      "section_prospectus": "Offres spéciales week-end",
+      "rayons_natifs": [
+        "29-desserts-sucre-et-farine"
+      ],
+      "conditionnement": "1KG",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 3.49,
+        "prix_barre": null,
+        "prix_au": 3.49,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-20",
+      "valide_au": "2026-11-22",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/yaourt-a-la-grecque-stracciatella-5024327.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024327.main.1.fr_fr.All.yaourtstracciatella-WEB.png"
+    },
+    {
+      "ref_aldi": "5013848",
+      "object_id": "5013848",
+      "nom": "RASOIR ANTI-PELUCHES",
+      "rayon": "Electromenager",
+      "section_prospectus": "Maison",
+      "rayons_natifs": [
+        "121-ambiano",
+        "32-electromenager"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "3 longueurs de coupe et un réservoir amovible.\n2 réglages de vitesse.\n2 piles AA incluses.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/rasoir-anti-peluches-5013848.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw17/5013848.main.1.fr_fr.All.rasoir-peluche-WEB.png"
+    },
+    {
+      "ref_aldi": "5019765",
+      "object_id": "5019765",
+      "nom": "MOULINS ÉPICES FINES",
+      "rayon": "Epices et herbes",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "35-epices-et-herbes"
+      ],
+      "conditionnement": "70G",
+      "poids_egoutte": 70,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": 42.72,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : Sel bleu, aromates et épices, poivre noir de malabar, mélange d'hiver ou mélanges de fêtes au poivre.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/moulins-epices-fines-5019765.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_47/5019765.main.1.fr_fr.All.selepices.png"
+    },
+    {
+      "ref_aldi": "5021888",
+      "object_id": "5021888",
+      "nom": "CHAUSSÉE AUX MOINES",
+      "rayon": "Fromages a deguster",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "38-fromages-a-deguster"
+      ],
+      "conditionnement": "320g",
+      "poids_egoutte": 320,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.09,
+        "prix_barre": 2.72,
+        "prix_au": 5.97,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 2.72€ (soit 8.50€ le kg), Les 2 produits : 3.81€ (soit 5.97€ le kg)",
+        "etiquette": "-60% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "25% de MG sur produit fini.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/chaussee-aux-moines-5021888.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5021888.main.1.fr_fr.All.chausseemoines-WEB.png"
+    },
+    {
+      "ref_aldi": "5009374",
+      "object_id": "5009374",
+      "nom": "FROMAGE FOURRÉ SAVEUR TRUFFE ET AUX BRISURES DE TRUFFES D'ÉTÉ (TUBER AESTIVUM) 3%",
+      "rayon": "Fromages a deguster",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "38-fromages-a-deguster"
+      ],
+      "conditionnement": "220 g",
+      "poids_egoutte": 220,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": 18.14,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "24% de matière grasse sur produit fini.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/fromage-fourre-saveur-truffe-et-aux-brisures-de-truffes-dete-tuber-aestivum-3pourcent-5009374.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5009374.main.1.fr_fr.All.fromagetruffe-WEB.png"
+    },
+    {
+      "ref_aldi": "5020148",
+      "object_id": "5020148",
+      "nom": "FROMAGE EN TRANCHES",
+      "rayon": "Fromages rapes et tranches",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "40-fromages-rapes-et-tranches",
+        "111-milsani-r"
+      ],
+      "conditionnement": "600G",
+      "poids_egoutte": 600,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.29,
+        "prix_barre": null,
+        "prix_au": 5.49,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/fromage-en-tranches-5020148.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw36/5020148.main.1.fr_fr.All.fromage-WEB.png"
+    },
+    {
+      "ref_aldi": "5004860",
+      "object_id": "5004860",
+      "nom": "RACLETTE POIVRE ET NATURE",
+      "rayon": "Fromages rapes et tranches",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "40-fromages-rapes-et-tranches"
+      ],
+      "conditionnement": "400G",
+      "poids_egoutte": 400,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": 9.98,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "2 x 8 tranches environ. 26% MG sur produit fini.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/raclette-poivre-et-nature-5004860.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw05/5004860.main.1.fr_fr.All.raclette-WEB.png"
+    },
+    {
+      "ref_aldi": "5020819",
+      "object_id": "5020819",
+      "nom": "CHOPE DE FRUITS AU SIROP",
+      "rayon": "Fruits et legumes en conserve",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "41-fruits-et-legumes-en-conserve"
+      ],
+      "conditionnement": "310G",
+      "poids_egoutte": 310,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.29,
+        "prix_barre": null,
+        "prix_au": 7.39,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix:\n- Poires (310g)\n- Pêches (320g)\n- Salade de Fruits (330g)",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/chope-de-fruits-au-sirop-5020819.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw33/5020819.main.1.fr_fr.All.fruitsirop-WEB.png"
+    },
+    {
+      "ref_aldi": "6108",
+      "object_id": "6108",
+      "nom": "CITRONS",
+      "rayon": "Fruits et legumes frais",
+      "section_prospectus": "Fruits et légumes",
+      "rayons_natifs": [
+        "42-fruits-et-legumes-frais"
+      ],
+      "conditionnement": "Le filet de 500g",
+      "poids_egoutte": 500,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.89,
+        "prix_barre": null,
+        "prix_au": 1.78,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-21",
+      "description_courte": "Variété Primofiori.\n\nCatégorie 1. \n\nCalibre 58/72 mm ou 53/67mm. \n\nOrigine Espagne.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/citrons-6108.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw44/6108.main.1.fr_fr.All.Citrons_Lemons-WEB.png"
+    },
+    {
+      "ref_aldi": "6377",
+      "object_id": "6377",
+      "nom": "CLEMENTINES",
+      "rayon": "Fruits et legumes frais",
+      "section_prospectus": "Fruits et légumes",
+      "rayons_natifs": [
+        "42-fruits-et-legumes-frais"
+      ],
+      "conditionnement": "La barquette de 1kg",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": 2.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-21",
+      "description_courte": "Variété Fine de Corse.\n\nCatégorie 1.\n\nCalibre 46/54 mm.\n\nOrigine France.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/clementines-6377.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/08-fruits-vegetables/6377.clementine.corse.png"
+    },
+    {
+      "ref_aldi": "6224",
+      "object_id": "6224",
+      "nom": "ENDIVE",
+      "rayon": "Fruits et legumes frais",
+      "section_prospectus": "Fruits et légumes",
+      "rayons_natifs": [
+        "42-fruits-et-legumes-frais"
+      ],
+      "conditionnement": "Le sachet de 1kg",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": 2.99,
+        "prix_au": 1.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "-33%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-21",
+      "description_courte": "Catégorie 1.\n\nOrigine France.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/endive-6224.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/6224.main.1.fr_fr.All.endive_Chicory-WEB.png"
+    },
+    {
+      "ref_aldi": "6280",
+      "object_id": "6280",
+      "nom": "KAKI",
+      "rayon": "Fruits et legumes frais",
+      "section_prospectus": "Fruits et légumes",
+      "rayons_natifs": [
+        "42-fruits-et-legumes-frais"
+      ],
+      "conditionnement": "La pièce",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 0.49,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-21",
+      "description_courte": "Variété Rojo brillante.\n\nCatégorie 1.\n\nCalibre 35.\n\nOrigine Espagne.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/kaki-6280.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/6280.main.1.fr_fr.All.Kaki_Persimmon-WEB.png"
+    },
+    {
+      "ref_aldi": "6345",
+      "object_id": "6345",
+      "nom": "KIWI",
+      "rayon": "Fruits et legumes frais",
+      "section_prospectus": "Fruits et légumes",
+      "rayons_natifs": [
+        "42-fruits-et-legumes-frais"
+      ],
+      "conditionnement": "La pièce",
+      "poids_egoutte": 1,
+      "unite_poids": "PIECE",
+      "prix": {
+        "prix": 0.35,
+        "prix_barre": null,
+        "prix_au": 0.35,
+        "unite": "PIECE",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-21",
+      "description_courte": "Variété Summer.\n\nCatégorie 1.\n\nCalibre 80/85 g.\n\nOrigine France.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/kiwi-6345.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/6345.main.1.fr_fr.All.Kiwi-Vert_Kiwi-Green-WEB.png"
+    },
+    {
+      "ref_aldi": "6374",
+      "object_id": "6374",
+      "nom": "POIRES",
+      "rayon": "Fruits et legumes frais",
+      "section_prospectus": "Fruits et légumes",
+      "rayons_natifs": [
+        "42-fruits-et-legumes-frais"
+      ],
+      "conditionnement": "La barquette de 1 Kg",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 1.79,
+        "prix_barre": 2.49,
+        "prix_au": 1.79,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "-28%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-21",
+      "description_courte": "Variété Célina ou Williams verte ou Conférence.\n\nCatégorie 1.\n\nCalibre 50/60 mm.\n\nOrigine  France.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/poires-6374.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/s43/6374.main.1.fr_fr.All.Poire-Rouge_Pear-Red-WEB.png"
+    },
+    {
+      "ref_aldi": "1019",
+      "object_id": "1019",
+      "nom": "POMMES DE TERRE DE CONSOMMATION A CHAIR FERME",
+      "rayon": "Fruits et legumes frais",
+      "section_prospectus": "Fruits et légumes",
+      "rayons_natifs": [
+        "42-fruits-et-legumes-frais"
+      ],
+      "conditionnement": "Le filet de 1,5kg",
+      "poids_egoutte": 1.5,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 2.29,
+        "prix_barre": null,
+        "prix_au": 1.53,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-21",
+      "description_courte": "Variété Amandine.\nCatégorie 1.\nCalibre 35/55mm.\nAvec traitement anti-germinatif.\nOrigine France.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pommes-de-terre-de-consommation-a-chair-ferme-1019.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/1019.main.1.fr_fr.All.PDT_Petites-Triplets_Small_Potatoes-Triplets-WEB.png"
+    },
+    {
+      "ref_aldi": "6313",
+      "object_id": "6313",
+      "nom": "TOMATES RONDES EN GRAPPE",
+      "rayon": "Fruits et legumes frais",
+      "section_prospectus": "Offres spéciales week-end",
+      "rayons_natifs": [
+        "42-fruits-et-legumes-frais"
+      ],
+      "conditionnement": "Le kg",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": 2.99,
+        "prix_au": 1.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "-33%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-20",
+      "valide_au": "2026-11-22",
+      "description_courte": "Catégorie 1.\n\nCalibre 57/67 mm.\n\nOrigine Espagne.\n\nProduit vendu en vrac.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/tomates-rondes-en-grappe-6313.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw34/6313.main.1.fr_fr.All.tomates-paniculees_Panicle_Tomatoes-WEB.png"
+    },
+    {
+      "ref_aldi": "5022339",
+      "object_id": "5022339",
+      "nom": "AMANDES GRILLEES",
+      "rayon": "Fruits secs et graines",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "44-fruits-secs-et-graines",
+        "104-trader-joe-s-r"
+      ],
+      "conditionnement": "250G",
+      "poids_egoutte": 250,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.89,
+        "prix_barre": null,
+        "prix_au": 11.56,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/amandes-grillees-5022339.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw33/5022339.main.1.fr_fr.All.amandesgrillees-WEB.png"
+    },
+    {
+      "ref_aldi": "5019535",
+      "object_id": "5019535",
+      "nom": "CACAHUÈTES GRILLÉES SALÉES",
+      "rayon": "Fruits secs et graines",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "44-fruits-secs-et-graines",
+        "104-trader-joe-s-r"
+      ],
+      "conditionnement": "300G",
+      "poids_egoutte": 300,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.99,
+        "prix_barre": null,
+        "prix_au": 3.3,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Lot de 2.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/cacahuetes-grillees-salees-5019535.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw34/5019535.main.1.fr_fr.All.cacahuetes-WEB.png"
+    },
+    {
+      "ref_aldi": "5019213",
+      "object_id": "5019213",
+      "nom": "DATTES MEDJOUL",
+      "rayon": "Fruits secs et graines",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "44-fruits-secs-et-graines"
+      ],
+      "conditionnement": "300G",
+      "poids_egoutte": 300,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.39,
+        "prix_barre": null,
+        "prix_au": 7.97,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/dattes-medjoul-5019213.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5019213.main.1.fr_fr.All.datesmedjoul-WEB.png"
+    },
+    {
+      "ref_aldi": "5027433",
+      "object_id": "5027433",
+      "nom": "FRUITS LYOPHILISÉS",
+      "rayon": "Fruits secs et graines",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "44-fruits-secs-et-graines",
+        "104-trader-joe-s-r"
+      ],
+      "conditionnement": "70G",
+      "poids_egoutte": 70,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 4.29,
+        "prix_barre": null,
+        "prix_au": 61.29,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : fraises ou mélange de fruits",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/fruits-lyophilises-5027433.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5027433.main.1.fr_fr.All.fruitsec-WEB.png"
+    },
+    {
+      "ref_aldi": "5018573",
+      "object_id": "5018573",
+      "nom": "WERTHER'S® POP CORN",
+      "rayon": "Fruits secs et graines",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "44-fruits-secs-et-graines"
+      ],
+      "conditionnement": "260g",
+      "poids_egoutte": 260,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.89,
+        "prix_barre": null,
+        "prix_au": 11.12,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Goût caramel.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/werthersr-pop-corn-5018573.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw23/5018573.main.1.fr_fr.All.werthers-WEB.png"
+    },
+    {
+      "ref_aldi": "5011098",
+      "object_id": "5011098",
+      "nom": "CAKE AU CHOCOLAT",
+      "rayon": "Gateaux moelleux",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "45-gateaux-moelleux"
+      ],
+      "conditionnement": "275G",
+      "poids_egoutte": 275,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.79,
+        "prix_barre": null,
+        "prix_au": 10.15,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/cake-au-chocolat-5011098.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw30/5011098.main.1.fr_fr.All.cakechocolat-WEB.png"
+    },
+    {
+      "ref_aldi": "4136",
+      "object_id": "4136",
+      "nom": "CAKE AUX ABRICOTS",
+      "rayon": "Gateaux moelleux",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "45-gateaux-moelleux"
+      ],
+      "conditionnement": "275G",
+      "poids_egoutte": 275,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.79,
+        "prix_barre": null,
+        "prix_au": 10.15,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/cake-aux-abricots-4136.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/4136.main.1.fr_fr.All.cakeabricots-WEB.png"
+    },
+    {
+      "ref_aldi": "5015220",
+      "object_id": "5015220",
+      "nom": "PAIN D'ÉPICES AUX FIGUES",
+      "rayon": "Gateaux moelleux",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "45-gateaux-moelleux"
+      ],
+      "conditionnement": "350G",
+      "poids_egoutte": 350,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": 5.69,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Tranché.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pain-depices-aux-figues-5015220.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_49/5015220.main.1.fr_fr.All.painepices.png"
+    },
+    {
+      "ref_aldi": "5010606",
+      "object_id": "5010606",
+      "nom": "CONFIT D'OIGNONS",
+      "rayon": "Huile sauces et condiments",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "46-huile-sauces-et-condiments"
+      ],
+      "conditionnement": "150G",
+      "poids_egoutte": 150,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.99,
+        "prix_barre": null,
+        "prix_au": 6.6,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Cuit au chaudron.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/confit-doignons-5010606.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_49/5010606.main.1.fr_fr.All.confitoignons.png"
+    },
+    {
+      "ref_aldi": "5010546",
+      "object_id": "5010546",
+      "nom": "CONFIT DE FIGUES",
+      "rayon": "Huile sauces et condiments",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "46-huile-sauces-et-condiments"
+      ],
+      "conditionnement": "150G",
+      "poids_egoutte": 150,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.99,
+        "prix_barre": null,
+        "prix_au": 6.6,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Cuit au chaudron.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/confit-de-figues-5010546.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5010546.main.1.fr_fr.All.confitfigue-WEB.png"
+    },
+    {
+      "ref_aldi": "0164",
+      "object_id": "0164",
+      "nom": "GRAINES BIOLOGIQUES",
+      "rayon": "Huile sauces et condiments",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "131-bio",
+        "46-huile-sauces-et-condiments"
+      ],
+      "conditionnement": "175G",
+      "poids_egoutte": 175,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.79,
+        "prix_barre": 2.29,
+        "prix_au": 10.23,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "-21%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : graines de courge 175 g (11.38€/kg), graines de tournesol 650 g (3.06€/kg) ou mélange de graines 275 g (7.24€/kg).",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/graines-biologiques-0164.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw18/0164.main.1.fr_fr.All.grainesbio-WEB.png"
+    },
+    {
+      "ref_aldi": "5005186",
+      "object_id": "5005186",
+      "nom": "HUILE DE NOISETTE",
+      "rayon": "Huile sauces et condiments",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "46-huile-sauces-et-condiments"
+      ],
+      "conditionnement": "250ML",
+      "poids_egoutte": 250,
+      "unite_poids": "ML",
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": 11.96,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/huile-de-noisette-5005186.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5005186.main.1.fr_fr.All.huilenoisette-WEB.png"
+    },
+    {
+      "ref_aldi": "5027504",
+      "object_id": "5027504",
+      "nom": "HUILE NOIX",
+      "rayon": "Huile sauces et condiments",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "46-huile-sauces-et-condiments"
+      ],
+      "conditionnement": "250ML",
+      "poids_egoutte": 250,
+      "unite_poids": "ML",
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": 11.96,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "avec éclats",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/huile-noix-5027504.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5027504.main.1.fr_fr.All.huiledenoix-WEB.png"
+    },
+    {
+      "ref_aldi": "5020292",
+      "object_id": "5020292",
+      "nom": "HUILE OLIVE VIERGE EXTRA GRECQUE",
+      "rayon": "Huile sauces et condiments",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "46-huile-sauces-et-condiments"
+      ],
+      "conditionnement": "750ML",
+      "poids_egoutte": 750,
+      "unite_poids": "ML",
+      "prix": {
+        "prix": 5.99,
+        "prix_barre": null,
+        "prix_au": 7.99,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/huile-olive-vierge-extra-grecque-5020292.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw33/5020292.main.1.fr_fr.All.huileolive-WEB.png"
+    },
+    {
+      "ref_aldi": "5017725",
+      "object_id": "5017725",
+      "nom": "CULOTTES INCONTINENCE EXTRA LARGE MEGA+",
+      "rayon": "Hygiene intime",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "47-hygiene-intime"
+      ],
+      "conditionnement": "Le paquet",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 11.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Pour fuites urinaires modérées à fortes.\nTaille Large à 9.99€ ou Extra Large à 11,99€.\n\n\n0.5€ la culotte Large ou 0.6€ la culotte Extra large",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/culottes-incontinence-extra-large-mega-5017725.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw40/5017725.main.1.fr_fr.All.coucheculottes-WEB.png"
+    },
+    {
+      "ref_aldi": "5016078",
+      "object_id": "5016078",
+      "nom": "CULOTTES INCONTINENCE LARGE XXL",
+      "rayon": "Hygiene intime",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "47-hygiene-intime"
+      ],
+      "conditionnement": "Le paquet",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Pour fuites urinaires modérées à fortes.\nTaille Large à 9.99€ ou Extra Large à 11,99€.\n\n\n0.5€ la culotte Large ou 0.6€ la culotte Extra large",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/culottes-incontinence-large-xxl-5016078.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw40/5016078.main.1.fr_fr.All.coucheculottes-WEB.png"
+    },
+    {
+      "ref_aldi": "5022586",
+      "object_id": "5022586",
+      "nom": "DÉS DE JAMBON CRU FUMÉ",
+      "rayon": "Jambons",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "48-jambons",
+        "110-le-marsigny-r"
+      ],
+      "conditionnement": "400g",
+      "poids_egoutte": 400,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.29,
+        "prix_barre": null,
+        "prix_au": 8.23,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Prêt à déguster. 2 x 200 g.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/des-de-jambon-cru-fume-5022586.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw40/5022586.main.1.fr_fr.All.cubesjambon-WEB.png"
+    },
+    {
+      "ref_aldi": "5003811",
+      "object_id": "5003811",
+      "nom": "JAMBON SUPÉRIEUR FUMÉ",
+      "rayon": "Jambons",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "48-jambons",
+        "110-le-marsigny-r"
+      ],
+      "conditionnement": "160 g",
+      "poids_egoutte": 160,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": 12.44,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Savourez un délicieux jambon fumé au bois de hêtre de la marque LE MARSIGNY®. Avec ses 4 tranches sans couenne, ce produit de qualité à prix discount est parfait pour vos repas du quotidien.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/jambon-superieur-fume-5003811.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw40/5003811.main.1.fr_fr.All.jambon-WEB.png"
+    },
+    {
+      "ref_aldi": "5012748",
+      "object_id": "5012748",
+      "nom": "FIGURINE POP!®",
+      "rayon": "Jouets",
+      "section_prospectus": "Enfant",
+      "rayons_natifs": [
+        "51-jouets"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Autres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/figurine-popr-5012748.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5012748.main.3.fr_fr.All.funko-pop-dolls-1_49933-pop-star-wars-mandalorian-the-child-w-cup-WEB.png"
+    },
+    {
+      "ref_aldi": "5017777",
+      "object_id": "5017777",
+      "nom": "JOUETS MATTEL®",
+      "rayon": "Jouets",
+      "section_prospectus": "Enfant",
+      "rayons_natifs": [
+        "51-jouets"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Autres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/jouets-mattelr-5017777.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017777.main.1.fr_fr.All.fyj44-hot-wheels-monster-truck-die-cast_a-brand-display_4-WEB.png"
+    },
+    {
+      "ref_aldi": "5024922",
+      "object_id": "5024922",
+      "nom": "PELUCHE DISNEY DOORABLES",
+      "rayon": "Jouets",
+      "section_prospectus": "Enfant",
+      "rayons_natifs": [
+        "51-jouets"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Env. 25 cm.\nAutres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/peluche-disney-doorables-5024922.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024922.main.3.fr_fr.All.dumbo_47-2026_disney-doorables-assortment-1-WEB.png"
+    },
+    {
+      "ref_aldi": "5017891",
+      "object_id": "5017891",
+      "nom": "PELUCHE PAT' PATROUILLE®",
+      "rayon": "Jouets",
+      "section_prospectus": "Enfant",
+      "rayons_natifs": [
+        "51-jouets"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 6.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Env. 20 cm.\nAutres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/peluche-pat-patrouiller-5017891.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw03/5017891.main.1.fr_fr.All.PawPatrol20cm-Chase_DAM-WEB.png"
+    },
+    {
+      "ref_aldi": "5008567",
+      "object_id": "5008567",
+      "nom": "BOISSON POMME CASSIS FRAMBOISE",
+      "rayon": "Jus de fruits et sirops",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "52-jus-de-fruits-et-sirops",
+        "120-rio-d-oro-r",
+        "130-sda-2026"
+      ],
+      "conditionnement": "2L",
+      "poids_egoutte": 2,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 1.19,
+        "prix_barre": 1.49,
+        "prix_au": 0.6,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": "-20%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Savourez une explosion de saveurs avec la boisson pomme cassis framboise RIO D'ORO®. Une délicieuse combinaison de fruits pour égayer vos journées, à un prix juste chez ALDI. Qualité et fraîcheur au rendez-vous !",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/boisson-pomme-cassis-framboise-5008567.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5008567.main.1.fr_fr.All.boissonaromatisee-WEB.png"
+    },
+    {
+      "ref_aldi": "0117",
+      "object_id": "0117",
+      "nom": "PUR JUS MULTIFRUITS",
+      "rayon": "Jus de fruits et sirops",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "52-jus-de-fruits-et-sirops",
+        "120-rio-d-oro-r"
+      ],
+      "conditionnement": "2L",
+      "poids_egoutte": 2,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 2.55,
+        "prix_barre": null,
+        "prix_au": 1.28,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": "XXL"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pur-jus-multifruits-0117.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/0117.main.1.fr_fr.All.jusmultifruits-WEB.png"
+    },
+    {
+      "ref_aldi": "5008487",
+      "object_id": "5008487",
+      "nom": "SIROP MÉLANGE DE FRUITS",
+      "rayon": "Jus de fruits et sirops",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "52-jus-de-fruits-et-sirops"
+      ],
+      "conditionnement": "75CL",
+      "poids_egoutte": 75,
+      "unite_poids": "CL",
+      "prix": {
+        "prix": 2.49,
+        "prix_barre": null,
+        "prix_au": 3.32,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Trois parfums disponibles : fruits rouges, agrumes et salade de fruits.\n\nExclusivité Aldi",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/sirop-melange-de-fruits-5008487.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw28/5008487.main.1.fr_fr.All.sirop-WEB.png"
+    },
+    {
+      "ref_aldi": "5013671",
+      "object_id": "5013671",
+      "nom": "AGENDA",
+      "rayon": "Librairie",
+      "section_prospectus": "Cuisine",
+      "rayons_natifs": [
+        "54-librairie"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3.49,
+        "prix_barre": null,
+        "prix_au": 3.49,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Autres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/agenda-5013671.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5013671.main.1.fr_fr.All.agenda-WEB.png"
+    },
+    {
+      "ref_aldi": "5017818",
+      "object_id": "5017818",
+      "nom": "CALENDRIER",
+      "rayon": "Librairie",
+      "section_prospectus": "Maison",
+      "rayons_natifs": [
+        "54-librairie",
+        "65-papeterie"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Autres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/calendrier-5017818.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017818.main.1.fr_fr.All.desk-calendar_i-am-happy_1-WEB.png"
+    },
+    {
+      "ref_aldi": "5021309",
+      "object_id": "5021309",
+      "nom": "CALENDRIER MURAL",
+      "rayon": "Librairie",
+      "section_prospectus": "Maison",
+      "rayons_natifs": [
+        "54-librairie",
+        "65-papeterie"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Autres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/calendrier-mural-5021309.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_48/5021309.main.1.fr_fr.All.DecorationWallCalendar-BrilliantMomentsFR_DAM.png"
+    },
+    {
+      "ref_aldi": "5016839",
+      "object_id": "5016839",
+      "nom": "LIVRES",
+      "rayon": "Librairie",
+      "section_prospectus": "Enfant",
+      "rayons_natifs": [
+        "54-librairie"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Autres modèles disponibles.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/livres-5016839.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5016839.main.4.fr_fr.All.livre-WEB.png"
+    },
+    {
+      "ref_aldi": "5026669",
+      "object_id": "5026669",
+      "nom": "ADOUCISSANT",
+      "rayon": "Linge et lessive",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "55-linge-et-lessive"
+      ],
+      "conditionnement": "0.74L",
+      "poids_egoutte": 0.74,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 1.3,
+        "prix_barre": 6.49,
+        "prix_au": 5.28,
+        "unite": "L",
+        "mention_prix": "Le produit vendu seul : 6.49€ (soit 8.78€ le l), Les 2 produits : 7.79€ (soit 5.28€ le l)",
+        "etiquette": "-80% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Ultra concentré.\nMoments magiques.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/adoucissant-5026669.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026669.main.1.fr_fr.All.souplinemomentsmagiques-WEB.png"
+    },
+    {
+      "ref_aldi": "5025260",
+      "object_id": "5025260",
+      "nom": "LESSIVE LIQUIDE",
+      "rayon": "Linge et lessive",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "55-linge-et-lessive"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": 1.98,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 8.01,
+        "prix_barre": 11.44,
+        "prix_au": 4.05,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": "-30%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Envolée d'air.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/lessive-liquide-5025260.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5025260.main.1.fr_fr.All.lessive-WEB.png"
+    },
+    {
+      "ref_aldi": "5026811",
+      "object_id": "5026811",
+      "nom": "LESSIVE LIQUIDE",
+      "rayon": "Linge et lessive",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "55-linge-et-lessive"
+      ],
+      "conditionnement": "Le lot",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 12.39,
+        "prix_barre": null,
+        "prix_au": 12.39,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Total tout en 1.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/lessive-liquide-5026811.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw37/5026811.main.1.fr_fr.All.lessive-WEB.png"
+    },
+    {
+      "ref_aldi": "5013116",
+      "object_id": "5013116",
+      "nom": "COUSSIN DE NOËL",
+      "rayon": "Literie",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "124-home-creation-r",
+        "56-literie",
+        "59-meubles"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Housse et garnissage : 100% polyester. Coussin intérieur : 100% polypropylène.\nEx: env. 40 x 40 cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/coussin-de-noel-5013116.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_46/5013116_5021232.main.1.fr_fr.All.M1800_ChristmasDecoration-Master-6582.jpg-custom.png"
+    },
+    {
+      "ref_aldi": "5021232",
+      "object_id": "5021232",
+      "nom": "PLAID TEDDY",
+      "rayon": "Literie",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "124-home-creation-r",
+        "56-literie",
+        "59-meubles"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 12.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Dessus : 100% polyester, sherpa.\nDessous : 100% polyester.\nEnv. 150 x 200 cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/plaid-teddy-5021232.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5021232.main.7.fr_fr.All.blanket-fleece-sherpa_style-3-christmas-WEB.png"
+    },
+    {
+      "ref_aldi": "5021242",
+      "object_id": "5021242",
+      "nom": "NAPPE OU CHEMIN DE TABLE VELOURS",
+      "rayon": "Maison",
+      "section_prospectus": "Cuisine",
+      "rayons_natifs": [
+        "124-home-creation-r",
+        "58-maison",
+        "59-meubles"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "100% polyester.\nAu choix :\n- Nappe : env. 140 x 200 cm\n- Chemin de table : env. 35 x 240 cm",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/nappe-ou-chemin-de-table-velours-5021242.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_48/5021242.main.1.fr_fr.All.IP_TABLECOVER-TABLE-RUNNER-VELVET-2Pcs--TABLE-RUNNER_1_1001.png"
+    },
+    {
+      "ref_aldi": "5012591",
+      "object_id": "5012591",
+      "nom": "PAILLASSON IMPRIMÉ",
+      "rayon": "Maison",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "124-home-creation-r",
+        "58-maison",
+        "59-meubles"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "100% polyamide. Env. 50 x 70 cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/paillasson-imprime-5012591.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5012591.main.2.fr_fr.All.doormat-decoration-50x70-cm-ae_AI_gnomes_AI-WEB.png"
+    },
+    {
+      "ref_aldi": "5012327",
+      "object_id": "5012327",
+      "nom": "CONFITURE ABRICOTS ET PÊCHES",
+      "rayon": "Miel confiture et tartinables",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "60-miel-confiture-et-tartinables"
+      ],
+      "conditionnement": "450G",
+      "poids_egoutte": 450,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.89,
+        "prix_barre": null,
+        "prix_au": 6.43,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/confiture-abricots-et-peches-5012327.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw34/5012327.main.1.fr_fr.All.confiture-abricot-peche-WEB.png"
+    },
+    {
+      "ref_aldi": "5003356",
+      "object_id": "5003356",
+      "nom": "CONFITURE INTENSE CERISE",
+      "rayon": "Miel confiture et tartinables",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "60-miel-confiture-et-tartinables"
+      ],
+      "conditionnement": "335G",
+      "poids_egoutte": 335,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.55,
+        "prix_barre": null,
+        "prix_au": 7.62,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/confiture-intense-cerise-5003356.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5003356.main.1.fr_fr.All.confiturecerise-WEB.png"
+    },
+    {
+      "ref_aldi": "5009273",
+      "object_id": "5009273",
+      "nom": "MIEL DE FLEURS L'APICULTEUR®",
+      "rayon": "Miel confiture et tartinables",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "60-miel-confiture-et-tartinables"
+      ],
+      "conditionnement": "250G",
+      "poids_egoutte": 250,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": 11.96,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/miel-de-fleurs-lapiculteurr-5009273.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw39/5009273.main.1.fr_fr.All.miel-WEB.png"
+    },
+    {
+      "ref_aldi": "5015213",
+      "object_id": "5015213",
+      "nom": "3 BLOCS WC",
+      "rayon": "Nettoyants et desodorisants",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "61-nettoyants-et-desodorisants",
+        "138-power-force-r"
+      ],
+      "conditionnement": "Le lot",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 2.29,
+        "prix_barre": null,
+        "prix_au": 2.29,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Variété au choix : floral, chlore ou citron.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/3-blocs-wc-5015213.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5015213.main.1.fr_fr.All.pastillewc-WEB.png"
+    },
+    {
+      "ref_aldi": "5015941",
+      "object_id": "5015941",
+      "nom": "GEL WC",
+      "rayon": "Nettoyants et desodorisants",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "61-nettoyants-et-desodorisants"
+      ],
+      "conditionnement": "750ML",
+      "poids_egoutte": 750,
+      "unite_poids": "ML",
+      "prix": {
+        "prix": 1.19,
+        "prix_barre": null,
+        "prix_au": 1.59,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Blancheur éclatante.\nAvec javel.\n\nTue 100% des microbes, virus et bactéries.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/gel-wc-5015941.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5015941.main.1.fr_fr.All.lacroix-WEB.png"
+    },
+    {
+      "ref_aldi": "5013259",
+      "object_id": "5013259",
+      "nom": "NETTOYANT SOL",
+      "rayon": "Nettoyants et desodorisants",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "61-nettoyants-et-desodorisants"
+      ],
+      "conditionnement": "1.5L",
+      "poids_egoutte": 1.5,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": 2,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au savon de Marseille & agrumes.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/nettoyant-sol-5013259.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5013259.main.1.fr_fr.All.carolin-WEB.png"
+    },
+    {
+      "ref_aldi": "5007424",
+      "object_id": "5007424",
+      "nom": "40 SERVIETTES EN PAPIER",
+      "rayon": "Papiers mouchoirs et serviettes",
+      "section_prospectus": "Noël",
+      "rayons_natifs": [
+        "66-papiers-mouchoirs-et-serviettes"
+      ],
+      "conditionnement": "Le paquet",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 0.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "3 plis. 24 x 24 ou 33 x 33 cm.\nDécors assortis.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/40-serviettes-en-papier-5007424.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2024/cw_50/5007424.main.1.fr_fr.All.serviettepapier.png"
+    },
+    {
+      "ref_aldi": "5026884",
+      "object_id": "5026884",
+      "nom": "PAPIER TOILETTE",
+      "rayon": "Papiers mouchoirs et serviettes",
+      "section_prospectus": "Hygiène et entretien",
+      "rayons_natifs": [
+        "66-papiers-mouchoirs-et-serviettes"
+      ],
+      "conditionnement": "Le paquet",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 12.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "32 rouleaux.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/papier-toilette-5026884.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw37/5026884.main.1.fr_fr.All.papiertoilette-WEB.png"
+    },
+    {
+      "ref_aldi": "5024325",
+      "object_id": "5024325",
+      "nom": "GYOZAS",
+      "rayon": "Pates saucisses et saucissons",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "114-asia-green-garden-r",
+        "68-pates-saucisses-et-saucissons"
+      ],
+      "conditionnement": "150 g",
+      "poids_egoutte": 150,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": 13.27,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : au poulet ou aux légumes.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/gyozas-5024325.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw36/5024325.main.1.fr_fr.All.gyoza-WEB.png"
+    },
+    {
+      "ref_aldi": "5004344",
+      "object_id": "5004344",
+      "nom": "LANGUE DE PORC",
+      "rayon": "Pates saucisses et saucissons",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "110-le-marsigny-r",
+        "68-pates-saucisses-et-saucissons"
+      ],
+      "conditionnement": "280g",
+      "poids_egoutte": 280,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.69,
+        "prix_barre": null,
+        "prix_au": 9.61,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "En gelée.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/langue-de-porc-5004344.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw39/5004344.main.1.fr_fr.All.langueporc-WEB.png"
+    },
+    {
+      "ref_aldi": "5022581",
+      "object_id": "5022581",
+      "nom": "LARDONS FUMÉS AU BOIS DE HÊTRE",
+      "rayon": "Pates saucisses et saucissons",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "68-pates-saucisses-et-saucissons",
+        "104-trader-joe-s-r"
+      ],
+      "conditionnement": "KG",
+      "poids_egoutte": 0.38,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 2.65,
+        "prix_barre": null,
+        "prix_au": 6.98,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "2 x 190g.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/lardons-fumes-au-bois-de-hetre-5022581.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5022581.main.1.fr_fr.All.lardons-WEB.png"
+    },
+    {
+      "ref_aldi": "5023286",
+      "object_id": "5023286",
+      "nom": "LOT DE 3 PÂTES FEUILLETÉES",
+      "rayon": "Pizzas et pates fraiches",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "132-daylicious-r",
+        "69-pizzas-et-pates-fraiches"
+      ],
+      "conditionnement": "690 g",
+      "poids_egoutte": 690,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.69,
+        "prix_barre": null,
+        "prix_au": 2.45,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/lot-de-3-pates-feuilletees-5023286.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/s43/5023286.main.1.fr_fr.All.patefeuilletee-WEB.png"
+    },
+    {
+      "ref_aldi": "5021204",
+      "object_id": "5021204",
+      "nom": "PIZZA PAPA TONI'S",
+      "rayon": "Pizzas et pates fraiches",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "69-pizzas-et-pates-fraiches"
+      ],
+      "conditionnement": "800 g",
+      "poids_egoutte": 800,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 4.49,
+        "prix_barre": null,
+        "prix_au": 5.62,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : Tomate mozzarella ou salami.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pizza-papa-tonis-5021204.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw42/5021204.main.1.fr_fr.All.pizza-WEB.png"
+    },
+    {
+      "ref_aldi": "0436",
+      "object_id": "0436",
+      "nom": "KALANCHOÉ",
+      "rayon": "Plante",
+      "section_prospectus": "Plantes",
+      "rayons_natifs": [
+        "70-plante"
+      ],
+      "conditionnement": "La plante",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Ø: 6 cm, hauteur: 15cm, avec cache-pot céramique.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/kalanchoe-0436.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/0436.main.2.fr_fr.All.plante-WEB.png"
+    },
+    {
+      "ref_aldi": "7412",
+      "object_id": "7412",
+      "nom": "ORCHIDÉE 3 BRANCHES",
+      "rayon": "Plante",
+      "section_prospectus": "Plantes",
+      "rayons_natifs": [
+        "70-plante"
+      ],
+      "conditionnement": "La plante",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 7.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-20",
+      "valide_au": "2026-11-23",
+      "description_courte": "Ø: 12cm, hauteur: 50-70cm",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/orchidee-3-branches-7412.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw31/7412.main.1.fr_fr.All.orchidee3branches-WEB.png"
+    },
+    {
+      "ref_aldi": "8842",
+      "object_id": "8842",
+      "nom": "PLANTES VERTES",
+      "rayon": "Plante",
+      "section_prospectus": "Plantes",
+      "rayons_natifs": [
+        "123-gardenline",
+        "70-plante"
+      ],
+      "conditionnement": "La plante",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-20",
+      "valide_au": "2026-11-23",
+      "description_courte": "Variétés au choix, Ø: 12 cm, hauteur: 25/45 cm,",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/plantes-vertes-8842.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/8842.main.1.fr_fr.All.plante-WEB.png"
+    },
+    {
+      "ref_aldi": "5001642",
+      "object_id": "5001642",
+      "nom": "SCHLUMBERGERA \"CACTUS DE NOËL\"",
+      "rayon": "Plante",
+      "section_prospectus": "Plantes",
+      "rayons_natifs": [
+        "123-gardenline",
+        "70-plante"
+      ],
+      "conditionnement": "La plante",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Coloris au choix, Ø: 9cm, hauteur: 22cm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/schlumbergera-cactus-de-noel-5001642.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5001642.main.1.fr_fr.All.schlumbergera-WEB.png"
+    },
+    {
+      "ref_aldi": "7916",
+      "object_id": "7916",
+      "nom": "12 MINI NEMS AU PORC",
+      "rayon": "Plats prepares en conserve",
+      "section_prospectus": "Offres spéciales week-end",
+      "rayons_natifs": [
+        "114-asia-green-garden-r",
+        "71-plats-prepares-en-conserve"
+      ],
+      "conditionnement": "420 g",
+      "poids_egoutte": 420,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 2.89,
+        "prix_barre": null,
+        "prix_au": 6.89,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-20",
+      "valide_au": "2026-11-22",
+      "description_courte": "Avec 2 sachets de sauce nuoc-mâm.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/12-mini-nems-au-porc-7916.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw42/7916.main.1.fr_fr.All.nems-WEB.png"
+    },
+    {
+      "ref_aldi": "5012696",
+      "object_id": "5012696",
+      "nom": "ALIGOT",
+      "rayon": "Plats prepares en conserve",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "1-pays-gourmand-r",
+        "71-plats-prepares-en-conserve"
+      ],
+      "conditionnement": "1 kg",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": 4.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "À la tome fraîche.\n\nMÉGA + FORMAT",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/aligot-5012696.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5012696.main.1.fr_fr.All.aligot-WEB.png"
+    },
+    {
+      "ref_aldi": "5009832",
+      "object_id": "5009832",
+      "nom": "CASSOULET DE CASTELNAUDARY",
+      "rayon": "Plats prepares en conserve",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "71-plats-prepares-en-conserve"
+      ],
+      "conditionnement": "1.35KG",
+      "poids_egoutte": 1.35,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 6.49,
+        "prix_barre": null,
+        "prix_au": 4.81,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Aux viandes de porc.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/cassoulet-de-castelnaudary-5009832.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5009832.main.1.fr_fr.All.cassoulet-WEB.png"
+    },
+    {
+      "ref_aldi": "5026368",
+      "object_id": "5026368",
+      "nom": "FEUILLETÉS 3 FROMAGES",
+      "rayon": "Plats prepares en conserve",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "132-daylicious-r",
+        "71-plats-prepares-en-conserve"
+      ],
+      "conditionnement": "240 g",
+      "poids_egoutte": 240,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": 8.3,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "2 x 120g.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/feuilletes-3-fromages-5026368.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026368.main.1.fr_fr.All.feuilletes-WEB.png"
+    },
+    {
+      "ref_aldi": "5026369",
+      "object_id": "5026369",
+      "nom": "FEUILLETÉS TOMATE MOZZARELLA",
+      "rayon": "Plats prepares en conserve",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "132-daylicious-r",
+        "71-plats-prepares-en-conserve"
+      ],
+      "conditionnement": "260 g",
+      "poids_egoutte": 260,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": 7.66,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "2 x 130g.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/feuilletes-tomate-mozzarella-5026369.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw37/5026369.main.1.fr_fr.All.feuilletestomate-WEB.png"
+    },
+    {
+      "ref_aldi": "5021163",
+      "object_id": "5021163",
+      "nom": "LASAGNES SAUMON ÉPINARDS",
+      "rayon": "Plats prepares en conserve",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "132-daylicious-r",
+        "71-plats-prepares-en-conserve"
+      ],
+      "conditionnement": "900 g",
+      "poids_egoutte": 900,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": 5.55,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/lasagnes-saumon-epinards-5021163.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw41/5021163.main.1.fr_fr.All.lasagnes-WEB.png"
+    },
+    {
+      "ref_aldi": "5005056",
+      "object_id": "5005056",
+      "nom": "CREVETTES ENTIÈRES CUITES",
+      "rayon": "Poisson",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "73-poisson"
+      ],
+      "conditionnement": "1KG",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 7.75,
+        "prix_barre": null,
+        "prix_au": 7.75,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Calibre : 60/80.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/crevettes-entieres-cuites-5005056.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw29/5005056.main.1.fr_fr.All.crevettes-WEB.png"
+    },
+    {
+      "ref_aldi": "5017043",
+      "object_id": "5017043",
+      "nom": "FILET DE SAUMON",
+      "rayon": "Poisson",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "73-poisson"
+      ],
+      "conditionnement": "500G",
+      "poids_egoutte": 500,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 8.59,
+        "prix_barre": 10.79,
+        "prix_au": 17.18,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "-20%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Filet de saumon de marque GOLDEN SEAFOOD®, parfait pour un repas savoureux en famille ou entre amis. Avec sa peau croustillante et sans arêtes, ce filet de saumon de qualité vous garantit une expérience gustative inoubliable. Savourez la fraîcheur de la mer à un prix discount, chez ALDI.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/filet-de-saumon-5017043.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw29/5017043.main.1.fr_fr.All.filetsaumon-WEB.png"
+    },
+    {
+      "ref_aldi": "5022580",
+      "object_id": "5022580",
+      "nom": "SAUMON FUMÉ NORVÈGE",
+      "rayon": "Poisson",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "73-poisson",
+        "76-preparations-a-base-de-poisson-et-crustaces",
+        "126-traiteur-de-la-mer"
+      ],
+      "conditionnement": "220 g",
+      "poids_egoutte": 220,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 4.49,
+        "prix_barre": null,
+        "prix_au": 20.41,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Salé au sel sec. Fumé au bois de hêtre.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/saumon-fume-norvege-5022580.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5022580.main.1.fr_fr.All.saumonfume-WEB.png"
+    },
+    {
+      "ref_aldi": "0543",
+      "object_id": "0543",
+      "nom": "8 CÔTES DE PORC ÉCHINE SANS OS",
+      "rayon": "Porc",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "74-porc",
+        "109-st-clement-r"
+      ],
+      "conditionnement": "960G",
+      "poids_egoutte": 960,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 6.99,
+        "prix_barre": null,
+        "prix_au": 7.29,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/8-cotes-de-porc-echine-sans-os-0543.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw39/0543.main.1.fr_fr.All.coteporcx8-WEB.png"
+    },
+    {
+      "ref_aldi": "1779",
+      "object_id": "1779",
+      "nom": "KIT POUR POTÉE",
+      "rayon": "Porc",
+      "section_prospectus": "Offres spéciales week-end",
+      "rayons_natifs": [
+        "74-porc"
+      ],
+      "conditionnement": "1KG",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 7.49,
+        "prix_barre": null,
+        "prix_au": 7.49,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-20",
+      "valide_au": "2026-11-22",
+      "description_courte": "Découvrez le délicieux kit pour potée de la marque ST-CLÉMENT LE BOUCHER®, idéal pour un repas savoureux en famille ou entre amis. Ce kit comprend 2 saucisses fumées à cuire, de l'épaule et du jarret de première qualité. Avec ST-CLÉMENT LE BOUCHER®, profitez de produits authentiques et savoureux à un prix juste. Offrez-vous une expérience culinaire gourmande et conviviale avec ce kit pour potée.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/kit-pour-potee-1779.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/1779.main.1.fr_fr.All.minipotee-WEB.png"
+    },
+    {
+      "ref_aldi": "5024308",
+      "object_id": "5024308",
+      "nom": "ÉMINCÉ DE PORC FAÇON GYROS",
+      "rayon": "Porc",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "74-porc",
+        "109-st-clement-r"
+      ],
+      "conditionnement": "500G",
+      "poids_egoutte": 500,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": 7.98,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/emince-de-porc-facon-gyros-5024308.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024308.main.1.fr_fr.All.emincedeporc-WEB.png"
+    },
+    {
+      "ref_aldi": "5020479",
+      "object_id": "5020479",
+      "nom": "TENDRE CROC",
+      "rayon": "Sandwichs et plats prepares",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "79-sandwichs-et-plats-prepares"
+      ],
+      "conditionnement": "200 g",
+      "poids_egoutte": 200,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.55,
+        "prix_barre": 1.73,
+        "prix_au": 5.7,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 1.73€ (soit 8.65€ le kg), Les 2 produits : 2.28€ (soit 5.70€ le kg)",
+        "etiquette": "-68% SUR LE 2ÈME"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "L'original. Jambon et fromage x2. Jambon conservation sans nitrite.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/tendre-croc-5020479.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5020479.main.1.fr_fr.All.crocmonsieur-WEB.png"
+    },
+    {
+      "ref_aldi": "5026866",
+      "object_id": "5026866",
+      "nom": "ORANGINA®",
+      "rayon": "Sodas",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "82-sodas"
+      ],
+      "conditionnement": "3.96L",
+      "poids_egoutte": 3.96,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 5.75,
+        "prix_barre": null,
+        "prix_au": 1.46,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": "10 + 2 OFFERTES."
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Le pack de 12 x 33 cl.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/oranginar-5026866.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026866.main.1.fr_fr.All.orangina-WEB.png"
+    },
+    {
+      "ref_aldi": "5026869",
+      "object_id": "5026869",
+      "nom": "PEPSI® ZERO",
+      "rayon": "Sodas",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "82-sodas"
+      ],
+      "conditionnement": "3.96L",
+      "poids_egoutte": 3.96,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 5.12,
+        "prix_barre": null,
+        "prix_au": 1.3,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Le pack de 12 x 33 cl.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pepsir-zero-5026869.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026869.main.1.fr_fr.All.pepsi-WEB.png"
+    },
+    {
+      "ref_aldi": "5026358",
+      "object_id": "5026358",
+      "nom": "BOUILLONS MAGGI",
+      "rayon": "Soupe en conserve",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "83-soupe-en-conserve"
+      ],
+      "conditionnement": "200G",
+      "poids_egoutte": 200,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.36,
+        "prix_barre": 1.7,
+        "prix_au": 6.8,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "-20%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Au choix : bouillon de légumes ou bouillon de volaille",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/bouillons-maggi-5026358.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026358.main.1.fr_fr.All.boullon-WEB.png"
+    },
+    {
+      "ref_aldi": "5019611",
+      "object_id": "5019611",
+      "nom": "SOUPE CEPES & BOLETS",
+      "rayon": "Soupe en conserve",
+      "section_prospectus": "Offres spéciales week-end",
+      "rayons_natifs": [
+        "83-soupe-en-conserve"
+      ],
+      "conditionnement": "2L",
+      "poids_egoutte": 2,
+      "unite_poids": "L",
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": 2.5,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-20",
+      "valide_au": "2026-11-22",
+      "description_courte": "A la crème fraiche",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/soupe-cepes-et-bolets-5019611.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5019611.main.1.fr_fr.All.soupecepebolet-WEB.png"
+    },
+    {
+      "ref_aldi": "5004509",
+      "object_id": "5004509",
+      "nom": "TABLETTES CHOCOLAT NOIR DESSERT",
+      "rayon": "Tablettes de chocolat",
+      "section_prospectus": "Cuisine et pâtisserie",
+      "rayons_natifs": [
+        "84-tablettes-de-chocolat"
+      ],
+      "conditionnement": "615g",
+      "poids_egoutte": 615,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 8.7,
+        "prix_barre": null,
+        "prix_au": 14.15,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Lot de 3.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/tablettes-chocolat-noir-dessert-5004509.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw23/5004509.main.1.fr_fr.All.tabchoconoir3x205g-WEB.png"
+    },
+    {
+      "ref_aldi": "5016295",
+      "object_id": "5016295",
+      "nom": "BOXERS",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "Lot de 2",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "95% coton, 5% élasthanne.\nDu M au XL",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/boxers-5016295.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_48/5016295.main.1.fr_fr.All.MXmasRetroPants2Pk-Style1A01Rainforest_DAM.png"
+    },
+    {
+      "ref_aldi": "5017985",
+      "object_id": "5017985",
+      "nom": "CHAUSSETTES",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Enfant",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "Lot de 2",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 2.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Ex. de composition : 86% coton, 12% polyamide, 2% élasthanne.\nDu 23/26 au 31/34.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/chaussettes-5017985.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017985.main.1.fr_fr.All.c-socks-licence-2pk_style-1-spiderman-WEB.png"
+    },
+    {
+      "ref_aldi": "5024876",
+      "object_id": "5024876",
+      "nom": "CHAUSSETTES",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "Le lot de 5",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 6,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Lot de 5 paires.\nEx. de composition : 78% coton, 20% polyamide, 2% élasthanne.\nDu 35/38 au 43/46.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/chaussettes-5024876.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024876.main.1.fr_fr.All.l-m-socks-giftbox-5pk-1_style-1-blue-melange-WEB.png"
+    },
+    {
+      "ref_aldi": "5006738",
+      "object_id": "5006738",
+      "nom": "CHAUSSETTES ANTIDÉRAPANTES",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "La paire",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Ex. de composition : 78% polyacrylique, 22% polyester.\nIntérieur : 100% polyester.\nDu 35/38 au 43/46.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/chaussettes-antiderapantes-5006738.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_49/5006738.main.1.fr_fr.All.LAntiSlipSocks-Style1OrchidHaze_DAM.png"
+    },
+    {
+      "ref_aldi": "5021249",
+      "object_id": "5021249",
+      "nom": "CHAUSSETTES DE SPORT",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "Lot de 12",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Ex. de composition : 62% coton, 36% polyester et 2% élasthanne.\nDu 35/38 au 43/46.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/chaussettes-de-sport-5021249.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5021249.main.1.fr_fr.All.l-m-socken-lotto-10pk_style-1-white-WEB.png"
+    },
+    {
+      "ref_aldi": "5017703",
+      "object_id": "5017703",
+      "nom": "CHAUSSETTES LUREX",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "Lot de 2",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 3,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Ex. de composition : 75% coton, 21% polyamide, 2% élasthanne, 2% polyester (métallisé).\nDu 35/38 au 39/42.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/chaussettes-lurex-5017703.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017703.main.1.fr_fr.All.l-lurex-socks-2pk-1_style-1-candy-canes-WEB.png"
+    },
+    {
+      "ref_aldi": "5017707",
+      "object_id": "5017707",
+      "nom": "GANTS DE TRAVAIL",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Bricolage",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "La paire",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 1.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "86% polyester,12% polyamide, 2% élasthanne, revêtement latex.\nDu S au XL.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/gants-de-travail-5017707.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017707.main.3.fr_fr.All.l-m-working-gloves-warm-3_style-1-black-WEB.png"
+    },
+    {
+      "ref_aldi": "5017693",
+      "object_id": "5017693",
+      "nom": "LEGGING POLAIRE",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "94% polyester, 6% élasthanne.\nDu S au XL.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/legging-polaire-5017693.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017693.main.1.fr_fr.All.l-fleece-leggings_AI_black_AI-WEB.png"
+    },
+    {
+      "ref_aldi": "5024864",
+      "object_id": "5024864",
+      "nom": "PANTALON EN VELOURS",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 8.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "69% coton, 26% polyester, 5% élasthanne.\nDu S au XL.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pantalon-en-velours-5024864.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024864.main.2.fr_fr.All.l-pull-on-corduroy-trousers-wide-leg_AI_brown_AI-WEB.png"
+    },
+    {
+      "ref_aldi": "5017702",
+      "object_id": "5017702",
+      "nom": "PULL",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 8.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "67% acrylique, 30% polyamide, 3% élasthanne.\nDu S au XL.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pull-5017702.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017702.main.1.fr_fr.All.l-melange-knit-pullover_AI_beige_AI-WEB.png"
+    },
+    {
+      "ref_aldi": "5024878",
+      "object_id": "5024878",
+      "nom": "PYJAMA",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Enfant",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'ensemble",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 7.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "Du 4 au 10 ans.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/pyjama-5024878.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024878.main.1.fr_fr.All.style-4-spiderman_47-2026_c-t-pyjama-lic_1-WEB.png"
+    },
+    {
+      "ref_aldi": "5012538",
+      "object_id": "5012538",
+      "nom": "ROBE",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "67% acrylique, 30% polyamide, 3% élasthanne.\nDu S au XL.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/robe-5012538.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5012538.main.1.fr_fr.All.l-melange-knit-dress_deep-redbrown-WEB.png"
+    },
+    {
+      "ref_aldi": "5024875",
+      "object_id": "5024875",
+      "nom": "SOUTIEN-GORGE",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 5.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "80% polyamide, 20% élasthanne.\nDu 100 D au 110 E.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/soutien-gorge-5024875.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024875.main.1.fr_fr.All.l-bra-minimizer-curvy_AI_beige_AI-WEB.png"
+    },
+    {
+      "ref_aldi": "5017714",
+      "object_id": "5017714",
+      "nom": "SWEAT PLAID",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Enfant",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 12.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-18",
+      "valide_au": "2026-11-23",
+      "description_courte": "100% polyester.\nDu 6 au 10 ans.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/sweat-plaid-5017714.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5017714.main.7.fr_fr.All.c-t-blanket-hoodie-lic_detail-4-WEB.png"
+    },
+    {
+      "ref_aldi": "5024868",
+      "object_id": "5024868",
+      "nom": "SWEATSHIRT",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 24.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "60% coton, 40% polyester.\nDu S au XL.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/sweatshirt-5024868.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024868.main.2.fr_fr.All.l-m-sweatshirt-lotto_style-1-men-black-WEB.png"
+    },
+    {
+      "ref_aldi": "5024867",
+      "object_id": "5024867",
+      "nom": "T-SHIRT",
+      "rayon": "Vetements et accessoires",
+      "section_prospectus": "Mode",
+      "rayons_natifs": [
+        "86-vetements-et-accessoires"
+      ],
+      "conditionnement": "L'unité",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 7.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-21",
+      "valide_au": "2026-11-23",
+      "description_courte": "Du S au XL.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/t-shirt-5024867.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5024867.main.1.fr_fr.All.l-m-t-shirt-lotto_style-2-men-black-WEB.png"
+    },
+    {
+      "ref_aldi": "5015246",
+      "object_id": "5015246",
+      "nom": "BLOC DE FOIE GRAS DE CANARD",
+      "rayon": "Viande et poisson en conserve",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "87-viande-et-poisson-en-conserve"
+      ],
+      "conditionnement": "200g",
+      "poids_egoutte": 200,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 6.39,
+        "prix_barre": null,
+        "prix_au": 31.95,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/bloc-de-foie-gras-de-canard-5015246.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_51/5015246.main.1.fr_fr.All.foiegras-WEB.png"
+    },
+    {
+      "ref_aldi": "5009227",
+      "object_id": "5009227",
+      "nom": "CORBEILLE FESTIVE",
+      "rayon": "Viande et poisson en conserve",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "87-viande-et-poisson-en-conserve"
+      ],
+      "conditionnement": "La corbeille",
+      "poids_egoutte": null,
+      "unite_poids": null,
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": 9.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Contient :\n- Terrine de campagne 180 g Label Rouge\n- Confiture de Noël 100 g\n-Terrine de campagne aux cèpes 180g Label Rouge\n- Bouteille de vin rouge Bergerac AOP 37,5 cl",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/corbeille-festive-5009227.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/gp-2024/5009227.main.1.fr_fr.All.-corbeillefestive.png"
+    },
+    {
+      "ref_aldi": "5026895",
+      "object_id": "5026895",
+      "nom": "CORBEILLE FESTIVE",
+      "rayon": "Viande et poisson en conserve",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "87-viande-et-poisson-en-conserve"
+      ],
+      "conditionnement": "2",
+      "poids_egoutte": 2,
+      "unite_poids": null,
+      "prix": {
+        "prix": 12.99,
+        "prix_barre": null,
+        "prix_au": null,
+        "unite": null,
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Contient :\n-Un foie gras de canard entier 120g\n-Un confit oignons et un Figue 100g\n-Un pain d'épices 90g",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/corbeille-festive-5026895.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5026895.main.1.fr_fr.All.coffretgourmand-WEB.png"
+    },
+    {
+      "ref_aldi": "4177",
+      "object_id": "4177",
+      "nom": "15 BOULETTES AU BŒUF",
+      "rayon": "Viande rouge",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "88-viande-rouge"
+      ],
+      "conditionnement": "375G",
+      "poids_egoutte": 375,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 4.19,
+        "prix_barre": 4.99,
+        "prix_au": 11.18,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "-16%"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Savourer l'authenticité française avec nos 15 délicieuses boulettes au bœuf ST-CLÉMENT LE BOUCHER®. Inspirées par la tradition bouchère, ces boulettes sont préparées avec des ingrédients de qualité premium pour vous offrir une expérience gustative inoubliable. Faciles à préparer et encore plus délicieuses à déguster, ces boulettes sont parfaites pour un repas réconfortant à prix doux. Offrez-vous le meilleur de la tradition culinaire française avec ST-CLÉMENT LE BOUCHER®.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/15-boulettes-au-boeuf-4177.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/4177.main.1.fr_fr.All.boulettesnature-WEB.png"
+    },
+    {
+      "ref_aldi": "5013289",
+      "object_id": "5013289",
+      "nom": "4 STEAKS*",
+      "rayon": "Viande rouge",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "109-st-clement-r",
+        "88-viande-rouge"
+      ],
+      "conditionnement": "400G",
+      "poids_egoutte": 400,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 6.99,
+        "prix_barre": null,
+        "prix_au": 17.48,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "XXL"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "À griller.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/4-steaks-5013289.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5013289.main.1.fr_fr.All.steak-WEB.png"
+    },
+    {
+      "ref_aldi": "5023798",
+      "object_id": "5023798",
+      "nom": "4 MOELLEUX DE POULET",
+      "rayon": "Viandes et poissons surgeles",
+      "section_prospectus": "Produits festifs",
+      "rayons_natifs": [
+        "89-viandes-et-poissons-surgeles"
+      ],
+      "conditionnement": "600G",
+      "poids_egoutte": 600,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 7.99,
+        "prix_barre": null,
+        "prix_au": 13.32,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Farce royale.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/4-moelleux-de-poulet-5023798.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5023798.main.1.fr_fr.All.moelleuxpoulet-WEB.png"
+    },
+    {
+      "ref_aldi": "3441",
+      "object_id": "3441",
+      "nom": "CROISSANT",
+      "rayon": "Viennoiseries et patisseries",
+      "section_prospectus": "Épicerie",
+      "rayons_natifs": [
+        "90-viennoiseries-et-patisseries"
+      ],
+      "conditionnement": "50G",
+      "poids_egoutte": 50,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 0.34,
+        "prix_barre": 0.45,
+        "prix_au": 6.8,
+        "unite": "KG",
+        "mention_prix": "Le produit vendu seul : 0.45€ (soit 9.00€ le kg), Les 4 produits : 1.35€ (soit 6.80€ le kg)",
+        "etiquette": "3+1 OFFERT"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Les croissants ALDI allient qualité et prix discount pour un petit-déjeuner savoureux à petit prix. Un régal croustillant à déguster à tout moment de la journée.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/croissant-3441.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw39/3441.main.1.fr_fr.All.Bakery_Croissant_GP2024-WEB.png"
+    },
+    {
+      "ref_aldi": "5005834",
+      "object_id": "5005834",
+      "nom": "BEAUJOLAIS NOUVEAU AOP",
+      "rayon": "Vins rouges",
+      "section_prospectus": "Beaujolais",
+      "rayons_natifs": [
+        "93-vins-rouges"
+      ],
+      "conditionnement": "75CL",
+      "poids_egoutte": 75,
+      "unite_poids": "CL",
+      "prix": {
+        "prix": 3.89,
+        "prix_barre": null,
+        "prix_au": 5.19,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-19",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/beaujolais-nouveau-aop-5005834.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw48/5005834.main.1.fr_fr.All.beaujolaisnouveau-WEB.png"
+    },
+    {
+      "ref_aldi": "5014441",
+      "object_id": "5014441",
+      "nom": "BEAUJOLAIS NOUVEAU SANS SULFITES AJOUTES AOP",
+      "rayon": "Vins rouges",
+      "section_prospectus": "Beaujolais",
+      "rayons_natifs": [
+        "93-vins-rouges"
+      ],
+      "conditionnement": "75CL",
+      "poids_egoutte": 75,
+      "unite_poids": "CL",
+      "prix": {
+        "prix": 4.99,
+        "prix_barre": null,
+        "prix_au": 6.66,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-19",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/beaujolais-nouveau-sans-sulfites-ajoutes-aop-5014441.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5014441.main.1.fr_fr.All.beaujolais-WEB.png"
+    },
+    {
+      "ref_aldi": "5014440",
+      "object_id": "5014440",
+      "nom": "BEAUJOLAIS VILLAGES NOUVEAU AOP",
+      "rayon": "Vins rouges",
+      "section_prospectus": "Beaujolais",
+      "rayons_natifs": [
+        "93-vins-rouges"
+      ],
+      "conditionnement": "75CL",
+      "poids_egoutte": 75,
+      "unite_poids": "CL",
+      "prix": {
+        "prix": 5.49,
+        "prix_barre": null,
+        "prix_au": 7.32,
+        "unite": "L",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-19",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/beaujolais-villages-nouveau-aop-5014440.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2025/cw_47/5014440.main.1.fr_fr.All.beaujolais.png"
+    },
+    {
+      "ref_aldi": "5003138",
+      "object_id": "5003138",
+      "nom": "2 COQUELETS",
+      "rayon": "Volaille",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "94-volaille"
+      ],
+      "conditionnement": "1KG",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 6.49,
+        "prix_barre": null,
+        "prix_au": 6.49,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/2-coquelets-5003138.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw16/5003138.main.1.fr_fr.All.coquelets-WEB.png"
+    },
+    {
+      "ref_aldi": "5003842",
+      "object_id": "5003842",
+      "nom": "CUISSES DE POULET",
+      "rayon": "Volaille",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "94-volaille"
+      ],
+      "conditionnement": "2KG",
+      "poids_egoutte": 2,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 6.79,
+        "prix_barre": null,
+        "prix_au": 3.4,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "XXL"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/cuisses-de-poulet-5003842.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5003842.main.1.fr_fr.All.cuissespoulet-WEB.png"
+    },
+    {
+      "ref_aldi": "4722",
+      "object_id": "4722",
+      "nom": "ESCALOPES DE DINDE",
+      "rayon": "Volaille",
+      "section_prospectus": "C'est tout frais",
+      "rayons_natifs": [
+        "94-volaille"
+      ],
+      "conditionnement": "1KG",
+      "poids_egoutte": 1,
+      "unite_poids": "KG",
+      "prix": {
+        "prix": 9.99,
+        "prix_barre": null,
+        "prix_au": 9.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": "XXL"
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": null,
+      "url_fiche": "https://www.aldi.fr/fiches-produits/escalopes-de-dinde-4722.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/4722.main.1.fr_fr.All.escaloppedinde-WEB.png"
+    },
+    {
+      "ref_aldi": "5023560",
+      "object_id": "5023560",
+      "nom": "YAOURT À LA GRECQUE AUX FRUITS",
+      "rayon": "Yaourts et fromages blancs",
+      "section_prospectus": "Produits frais",
+      "rayons_natifs": [
+        "95-yaourts-et-fromages-blancs"
+      ],
+      "conditionnement": "600 G",
+      "poids_egoutte": 600,
+      "unite_poids": "G",
+      "prix": {
+        "prix": 1.79,
+        "prix_barre": null,
+        "prix_au": 2.99,
+        "unite": "KG",
+        "mention_prix": null,
+        "etiquette": null
+      },
+      "disponible": true,
+      "valide_du": "2026-11-17",
+      "valide_au": "2026-11-23",
+      "description_courte": "Fraise, mangue-orange, orange gingembre, citron. 4x150G.",
+      "url_fiche": "https://www.aldi.fr/fiches-produits/yaourt-a-la-grecque-aux-fruits-5023560.html",
+      "image": "https://prd.an-pcm.com/dam/asset-migration/aem-assets/france/products/pac/2026/cw47/5023560.main.1.fr_fr.All.yaourtsalagrecque-WEB.png"
+    }
+  ]
+}
